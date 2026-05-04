@@ -1,0 +1,5702 @@
+[
+    {
+        "question": "Компьютерлік желілердің негізгі мақсаты қандай?",
+        "variants": [
+            {
+                "text": "Ақпаратты тиімді және жылдам тасымалдау",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютерлерді тек қана сақтауға пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "Желі ішіндегі деректерді қорғау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек бір компьютердің жұмысын жеңілдету",
+                "is_correct": false
+            },
+            {
+                "text": "Тек аудио және бейнемазмұнды тасымалдау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Мәліметтерді өңдеу мен оларды сақтауды қамтамасыз ететін компьютерлік жүйенің негізгі элементі қандай?",
+        "variants": [
+            {
+                "text": "Процессор",
+                "is_correct": true
+            },
+            {
+                "text": "Рамка",
+                "is_correct": false
+            },
+            {
+                "text": "Жад",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернеттегі құрылғылардың бір-бірімен байланысын қамтамасыз ететін протокол қандай?",
+        "variants": [
+            {
+                "text": "TCP/IP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"IP адрес\" не үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Әрбір құрылғыны бірегей анықтау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Интернеттің жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлерді біріктіру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлік вирустарды анықтау үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі топологиясының қай түрінде барлық құрылғылар бір ортаға қосылады?",
+        "variants": [
+            {
+                "text": "Жұлдыз",
+                "is_correct": true
+            },
+            {
+                "text": "Сызықтық",
+                "is_correct": false
+            },
+            {
+                "text": "Толқын",
+                "is_correct": false
+            },
+            {
+                "text": "Рингтік",
+                "is_correct": false
+            },
+            {
+                "text": "Аралас",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Локальды желіде қандай құрылғы компьютерлер арасында деректерді таратуға арналған?",
+        "variants": [
+            {
+                "text": "Свитч",
+                "is_correct": true
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"DNS\" аббревиатурасы не білдіреді?",
+        "variants": [
+            {
+                "text": "Домендік аттарды шешу жүйесі",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді сақтау жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік қызмет көрсету жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Жергілікті жүйелер байланысы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді тарату жүйесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай технология интернетке қосылу үшін телефон желісін пайдаланады?",
+        "variants": [
+            {
+                "text": "ADSL",
+                "is_correct": true
+            },
+            {
+                "text": "Wi-Fi",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet",
+                "is_correct": false
+            },
+            {
+                "text": "Bluetooth",
+                "is_correct": false
+            },
+            {
+                "text": "VPN",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желілік қауіпсіздік хаттамаларының бірі қандай?",
+        "variants": [
+            {
+                "text": "SSL",
+                "is_correct": true
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректерді тасымалдау үшін қандай құрылғы қолданылады?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің маршрутизаторы қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Әрбір пакеттің дұрыс бағытқа жетуін қамтамасыз етеді",
+                "is_correct": true
+            },
+            {
+                "text": "Желідегі барлық деректерді сақтайды",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғылардың бірігуін қамтамасыз етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді қорғайды",
+                "is_correct": false
+            },
+            {
+                "text": "Интернетке қосылу жылдамдығын арттырады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Wi-Fi технологиясы қандай ортада жұмыс істейді?",
+        "variants": [
+            {
+                "text": "Радиотолқындар арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Көпжіпті кабельдер арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Оптикалық талшықтар арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискілер арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Электрлік импульстар арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желілік компьютерлердің бір-бірімен байланысуын қамтамасыз ететін құрылғыны атаңыз.",
+        "variants": [
+            {
+                "text": "Коммутатор",
+                "is_correct": true
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Қосқыш",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернетте деректерді жіберу кезінде пакеттердің дұрыс жолды таңдауы үшін қандай құрылғы қажет?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Блокнот",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде \"IP адрес\" не үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Әрбір құрылғыны бірегей түрде анықтау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желі топологиясын өзгерту үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғының жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Вирустарды тексеру үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желілік қауіпсіздікті қамтамасыз ету үшін қолданылатын механизмдердің бірі қандай?",
+        "variants": [
+            {
+                "text": "Шифрлау",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "SSL",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай технология компьютерлік желі арқылы деректерді жібере алады?",
+        "variants": [
+            {
+                "text": "Ethernet",
+                "is_correct": true
+            },
+            {
+                "text": "Bluetooth",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi",
+                "is_correct": false
+            },
+            {
+                "text": "VPN",
+                "is_correct": false
+            },
+            {
+                "text": "Барлығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде мәліметтерді тарату кезінде қай құрылғы құрылғыларды біріктіреді?",
+        "variants": [
+            {
+                "text": "Хаб",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай құрылғыны компьютерлік желі арқылы қосылған басқа құрылғыларға қатысты мәліметтерді тарату үшін қолданады?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай протокол веб-беттерді жүктеу үшін қолданылады?",
+        "variants": [
+            {
+                "text": "HTTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "TCP/IP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "IP-адресі дегеніміз не?",
+        "variants": [
+            {
+                "text": "Әрбір құрылғыны желіде бірегей анықтау үшін қолданылатын сандық белгі",
+                "is_correct": true
+            },
+            {
+                "text": "Құрылғының физикалық мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Желі арқылы мәліметтерді шифрлау әдісі",
+                "is_correct": false
+            },
+            {
+                "text": "Желіге қосылу үшін қажет пароль",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлік жүйенің операциялық жүйесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"VPN\" аббревиатурасы не білдіреді?",
+        "variants": [
+            {
+                "text": "Виртуалды жеке желі",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді қорғау желісі",
+                "is_correct": false
+            },
+            {
+                "text": "Жоғары жылдамдықтағы желі",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлік қауіпсіздік жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Желі серверін басқару жүйесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Технология бойынша деректерді сымсыз байланыс арқылы жіберетін құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Wi-Fi",
+                "is_correct": true
+            },
+            {
+                "text": "Ethernet",
+                "is_correct": false
+            },
+            {
+                "text": "Bluetooth",
+                "is_correct": false
+            },
+            {
+                "text": "VPN",
+                "is_correct": false
+            },
+            {
+                "text": "ADSL",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде құрылғылардың бір-бірімен байланысын қамтамасыз ететін құрылғыны атаңыз.",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің негізгі түрлері қандай?",
+        "variants": [
+            {
+                "text": "Локальды және кең ауқымды желі",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб және маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Сервер және клиент",
+                "is_correct": false
+            },
+            {
+                "text": "Сымсыз және сымды байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Виртуалды және физикалық желі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде деректердің сенімділігі мен қауіпсіздігін қамтамасыз ету үшін қандай протокол қолданылады?",
+        "variants": [
+            {
+                "text": "SSL/TLS",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы деректерді физикалық түрде бір компьютерден екіншіге жеткізу үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернет желісінің негізгі қызметі қандай?",
+        "variants": [
+            {
+                "text": "Деректерді бүкіл әлем бойынша тасымалдау",
+                "is_correct": true
+            },
+            {
+                "text": "Тек жергілікті желіні басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлердің физикалық байланысын орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлік қауіпсіздік жүйесін қамтамасыз ету",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні қадағалау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Хаб (Hub) және свитчтің (Switch) айырмашылығы неде?",
+        "variants": [
+            {
+                "text": "Хаб барлық деректерді барлық құрылғыларға жіберсе, свитч тек қажетті құрылғыға жібереді",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб тек сымды желіде жұмыс істейді, ал свитч сымсыз да жұмыс істей алады",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб тек мәліметтерді шифрлайды, ал свитч тек қорғайды",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб және свитч бірдей құрылғылар болып табылады",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб тек кішігірім желілерде, ал свитч тек ірі желілерде қолданылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "IP-адресі қандай қызметті атқарады?",
+        "variants": [
+            {
+                "text": "Әрбір компьютерді желіде бірегей анықтау",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютерді вирус жұқтырудан қорғау",
+                "is_correct": false
+            },
+            {
+                "text": "Желідегі барлық құрылғыларды біріктіру",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғылар арасындағы мәліметтерді қорғау",
+                "is_correct": false
+            },
+            {
+                "text": "Желінің жылдамдығын арттыру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Локальды желіде деректерді тарату үшін қандай құрылғы пайдаланылады?",
+        "variants": [
+            {
+                "text": "Коммутатор (Switch)",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлердің желіге қосылуын қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жалпыға бірдей интернет байланысын қамтамасыз ететін құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі қауіпсіздігін қамтамасыз ету үшін қандай шаралар қолданылады?",
+        "variants": [
+            {
+                "text": "Шифрлау және аутентификация",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қана сымды байланыс қолдану",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қана жергілікті желі пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді тек қана қолмен тасымалдау",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні тұрақты түрде өшіріп тұру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ethernet желісінің ерекшелігі қандай?",
+        "variants": [
+            {
+                "text": "Ол сымдар арқылы деректерді жеткізу үшін қолданылатын танымал технология",
+                "is_correct": true
+            },
+            {
+                "text": "Ол тек сымсыз желі үшін қолданылады",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet желісі тек мобильді құрылғыларда қолданылады",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet желісі тек ішкі корпоративтік желіде қолданылады",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet желісі тек Wi-Fi технологиясымен жұмыс істейді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай протокол веб-сайттардың жүктелуін қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "HTTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы сымсыз байланыс арқылы интернетке қосылуға мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Wi-Fi роутер",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Маршрутизатордың қызметі қандай?",
+        "variants": [
+            {
+                "text": "Мәліметтер пакеттерін бағыттау",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлер арасындағы қашықтықты қысқарту",
+                "is_correct": false
+            },
+            {
+                "text": "Интернетке қосылу жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Желідегі барлық құрылғыларды біріктіру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Белгілі бір қызметтерге арналған интернетке қосылу үшін қолданылатын технологиялардың бірі қандай?",
+        "variants": [
+            {
+                "text": "ADSL",
+                "is_correct": true
+            },
+            {
+                "text": "Ethernet",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi",
+                "is_correct": false
+            },
+            {
+                "text": "Bluetooth",
+                "is_correct": false
+            },
+            {
+                "text": "VPN",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернетке қосылу үшін қандай негізгі құрылғы қажет?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйелік блок",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректерді жіберу үшін қандай негізгі құрылғы пайдаланылады?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай технология арқылы компьютерлер арасында деректер сымсыз беріледі?",
+        "variants": [
+            {
+                "text": "Wi-Fi",
+                "is_correct": true
+            },
+            {
+                "text": "Ethernet",
+                "is_correct": false
+            },
+            {
+                "text": "Bluetooth",
+                "is_correct": false
+            },
+            {
+                "text": "ADSL",
+                "is_correct": false
+            },
+            {
+                "text": "VPN",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі қауіпсіздігін қамтамасыз ету үшін қандай шаралар қолданылады?",
+        "variants": [
+            {
+                "text": "Шифрлау және аутентификация",
+                "is_correct": true
+            },
+            {
+                "text": "Вирусқа қарсы бағдарлама қолдану",
+                "is_correct": false
+            },
+            {
+                "text": "Жалпыға ортақ желілерді пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні тек локалды түрде қосу",
+                "is_correct": false
+            },
+            {
+                "text": "Интернетті шектеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Firewall\" (отбасы) құрылғысы қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Желілік қауіпсіздікті қорғау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Интернеттің жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желі құрылғыларын біріктіру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді резервтеу үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерді қорғау үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"DHCP\" протоколы қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "IP адресін автоматты түрде тағайындау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Мәліметтерді шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні басқару үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Вирустардан қорғау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды қосу үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Модемнің негізгі қызметі қандай?",
+        "variants": [
+            {
+                "text": "Ақпаратты аналогтық және цифрлық сигналдарға түрлендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютерлік желінің жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды біріктіру",
+                "is_correct": false
+            },
+            {
+                "text": "IP-адрес тағайындау",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні қорғау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернеттің негізгі қызметі қандай?",
+        "variants": [
+            {
+                "text": "Деректерді бүкіл әлем бойынша жеткізу",
+                "is_correct": true
+            },
+            {
+                "text": "Желілік қауіпсіздікті қамтамасыз ету",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлер арасындағы деректерді сақтау",
+                "is_correct": false
+            },
+            {
+                "text": "Локалды желіні басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік құрылғылардың жұмысын бақылау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"MAC адресі\" дегеніміз не?",
+        "variants": [
+            {
+                "text": "Құрылғының желідегі бірегей физикалық мекенжайы",
+                "is_correct": true
+            },
+            {
+                "text": "Құрылғының виртуалды мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Желідегі сервердің мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Интернетті қорғау әдісі",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді шифрлау әдісі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"DNS\" қызметі қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Домендік аттарды IP-адреске түрлендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Желі жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Мәліметтерді шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні қорғау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы деректерді коммутаторға қосу үшін пайдаланылады?",
+        "variants": [
+            {
+                "text": "Құрылғының желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Акустикалық құрылғы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сымсыз байланыс кезінде деректерді шифрлау үшін қандай протокол жиі қолданылады?",
+        "variants": [
+            {
+                "text": "WPA2",
+                "is_correct": true
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Телекоммуникациялық желіде қандай құрылғы желіаралық қосылыстарды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Шлюз",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "IP-адресін тексеру үшін қолданылатын команданың бірі қандай?",
+        "variants": [
+            {
+                "text": "Ping",
+                "is_correct": true
+            },
+            {
+                "text": "Traceroute",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "Telnet",
+                "is_correct": false
+            },
+            {
+                "text": "SSH",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"HTTP\" протоколы қандай мақсатта пайдаланылады?",
+        "variants": [
+            {
+                "text": "Веб-беттерді жүктеу үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні тексеру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні басқару үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттарды қорғау үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай протокол қолдану арқылы электрондық пошта жіберіледі?",
+        "variants": [
+            {
+                "text": "SMTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "IP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі арқылы мәліметтерді қауіпсіз тасымалдау үшін қандай шифрлау әдісі қолданылады?",
+        "variants": [
+            {
+                "text": "SSL",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ауқымды желіде деректерді тарату кезінде қай құрылғы қолданылуы мүмкін?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"FTP\" протоколы қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Файлдарды тасымалдау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-сайттарды шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық поштаны жіберу үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді жүктеу үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Мәліметтерді сақтау үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Әрбір компьютерді желіде бірегей анықтайтын мекенжайды атаңыз.",
+        "variants": [
+            {
+                "text": "IP-адресі",
+                "is_correct": true
+            },
+            {
+                "text": "MAC-адресі",
+                "is_correct": false
+            },
+            {
+                "text": "DNS-адресі",
+                "is_correct": false
+            },
+            {
+                "text": "Порты",
+                "is_correct": false
+            },
+            {
+                "text": "Домендік атауы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қайсысы компьютерлік желіге қосылу үшін қолданылатын құрылғы?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйелік блок",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде мәліметтерді тасымалдау үшін қолданылатын негізгі құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Wi-Fi\" технологиясы қандай ортада жұмыс істейді?",
+        "variants": [
+            {
+                "text": "Радиотолқындар арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Көпжіпті кабельдер арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Оптикалық талшықтар арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Электрлік импульстар арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Жер асты кабельдері арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлерді желіде байланыстырады?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай протокол веб-беттерді жүктеуді қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "HTTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі қауіпсіздігі үшін қандай стандарттар қолданылады?",
+        "variants": [
+            {
+                "text": "WPA2",
+                "is_correct": true
+            },
+            {
+                "text": "ADSL",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet",
+                "is_correct": false
+            },
+            {
+                "text": "DSL",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желінің қызмет көрсету аймағы қандай?",
+        "variants": [
+            {
+                "text": "Желі ішінде орналасқан құрылғылар мен олардың байланыстары",
+                "is_correct": true
+            },
+            {
+                "text": "Барлық жергілікті серверлер мен құрылғылар",
+                "is_correct": false
+            },
+            {
+                "text": "Тек бір компьютердің жұмыс аймағы",
+                "is_correct": false
+            },
+            {
+                "text": "Желінің физикалық орналасуы",
+                "is_correct": false
+            },
+            {
+                "text": "Сымсыз байланыс аймағы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің физикалық байланысын қамтамасыз ететін құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Ethernet кабелі",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлер арасындағы деректерді жібереді және қабылдайды?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Шлюз\" құрылғысы қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Әр түрлі желілердің арасындағы байланыс",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді жедел тасымалдау",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні тексеру",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Мәліметтерді шектеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернетке қосылу кезінде қандай протокол ең көп қолданылады?",
+        "variants": [
+            {
+                "text": "TCP/IP",
+                "is_correct": true
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлер арасында сымсыз байланыс орнатады?",
+        "variants": [
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet картасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ауқымды желіде құрылғыларды біріктіру үшін қандай құрылғы қолданылады?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"IP адрес\" не үшін қажет?",
+        "variants": [
+            {
+                "text": "Әрбір құрылғыны бірегей анықтау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Желі жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желідегі қауіпсіздікті сақтау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыны қорғау үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желідегі барлық құрылғыларды басқаруға мүмкіндік беретін жүйе не деп аталады?",
+        "variants": [
+            {
+                "text": "Желі басқару жүйесі",
+                "is_correct": true
+            },
+            {
+                "text": "Операциялық жүйе",
+                "is_correct": false
+            },
+            {
+                "text": "Қауіпсіздік жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Шифрлау жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор жүйесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде деректерді тасымалдау жылдамдығын не анықтайды?",
+        "variants": [
+            {
+                "text": "Желі өткізу қабілеттілігі",
+                "is_correct": true
+            },
+            {
+                "text": "Құрылғының жеделдігі",
+                "is_correct": false
+            },
+            {
+                "text": "Сымсыз технологиялар",
+                "is_correct": false
+            },
+            {
+                "text": "Сымдардың ұзындығы",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйе",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы мәліметтерді қорғау және шифрлау үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Шифрлаушы құрылғы",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Маршрутизатордың функциясы қандай?",
+        "variants": [
+            {
+                "text": "Деректер пакеттерін қажетті бағытқа бағыттау",
+                "is_correct": true
+            },
+            {
+                "text": "Желіге қосылу жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлер арасында қауіпсіздік деңгейін қамтамасыз ету",
+                "is_correct": false
+            },
+            {
+                "text": "Желі карталарын басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді шифрлау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай құрылғы интернетті әрбір үйде бөліп таратуға арналған?",
+        "variants": [
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": true
+            },
+            {
+                "text": "Ethernet кабелі",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлерді желі арқылы бір-біріне қосу үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде компьютерлер арасындағы деректерді тасымалдау үшін қолданылатын байланыс құрылғысы қандай?",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы желіге қосылған құрылғыларды басқару және олардың арасындағы байланыс орнатуды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Шлюз",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Әрбір компьютердің интернетке қосылуын қамтамасыз ететін құрылғыны атаңыз.",
+        "variants": [
+            {
+                "text": "Модем",
+                "is_correct": true
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай протокол веб-браузер мен веб-сервер арасындағы деректер алмасуды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "HTTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлер арасында сымсыз байланыс орнатады?",
+        "variants": [
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": true
+            },
+            {
+                "text": "Ethernet кабелі",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"IP адрес\" арқылы не істейді?",
+        "variants": [
+            {
+                "text": "Әрбір компьютерді желіде бірегей анықтайды",
+                "is_correct": true
+            },
+            {
+                "text": "Құрылғының қауіпсіздігін қамтамасыз етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Желі жылдамдығын арттырады",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғылар арасында ақпаратты шифрлайды",
+                "is_correct": false
+            },
+            {
+                "text": "Интернетке қосылу үшін қажет парольді сақтайды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Модем не үшін қажет?",
+        "variants": [
+            {
+                "text": "Деректерді аналогтық және цифрлық сигналдарға түрлендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Желідегі құрылғыларды басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді қауіпсіз тасымалдау",
+                "is_correct": false
+            },
+            {
+                "text": "Желіде қауіпсіздік протоколдарын қолдану",
+                "is_correct": false
+            },
+            {
+                "text": "Интернетке қосылу жылдамдығын арттыру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде барлық құрылғыларды басқаруды қамтамасыз ететін құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлер арасындағы деректерді жіберу үшін қолданылатын қандай байланыс түрлері бар?",
+        "variants": [
+            {
+                "text": "Сымды және сымсыз байланыс",
+                "is_correct": true
+            },
+            {
+                "text": "Тек сымды байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Тек сымсыз байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Тек радио байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Тек инфрақызыл байланыс",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы Интернетке қосылу жылдамдығын арттырады?",
+        "variants": [
+            {
+                "text": "Желі маршрутизаторы",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"SSL/TLS\" протоколы қандай мақсатқа арналған?",
+        "variants": [
+            {
+                "text": "Деректерді шифрлау және қорғау",
+                "is_correct": true
+            },
+            {
+                "text": "Желіге қосылу жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық пошта жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді сақтау",
+                "is_correct": false
+            },
+            {
+                "text": "Желіге құрылғыларды қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы сымсыз желіге қосылған құрылғылардың арасындағы байланыс орнатуды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі қауіпсіздігін қамтамасыз ететін құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Фаервол (Firewall)",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлер арасындағы деректерді бағыттап, әр түрлі желілер арасында байланыс орнатуды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернеттегі сервермен байланыс жасау үшін қай порт нөмірі қолданылады?",
+        "variants": [
+            {
+                "text": "80 (HTTP үшін)",
+                "is_correct": true
+            },
+            {
+                "text": "443 (HTTPS үшін)",
+                "is_correct": false
+            },
+            {
+                "text": "21 (FTP үшін)",
+                "is_correct": false
+            },
+            {
+                "text": "25 (SMTP үшін)",
+                "is_correct": false
+            },
+            {
+                "text": "110 (POP3 үшін)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай құрылғы компьютерлерді қосуға және олар арасында деректерді жіберуге мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Хаб",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "VPN қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Қауіпсіз және жеке интернет байланысын орнату үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Желі жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлер арасындағы физикалық байланыс орнату үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні қадағалау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желі құрылғыларын басқару үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде мәліметтерді тасымалдау үшін қандай құрылғы IP-адресін пайдаланады?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"DNS\" қызметі қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Домендік атауларды IP-адреске түрлендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Электрондық поштаны басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Интернет-трафикті басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттардың жұмысын бақылау",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды бір желіде қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютердің физикалық желіге қосылуын қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі \"ping\" командасының негізгі қызметі қандай?",
+        "variants": [
+            {
+                "text": "Желідегі құрылғыға қосылымның бар-жоғын тексеру",
+                "is_correct": true
+            },
+            {
+                "text": "Желідегі барлық құрылғыларды анықтау",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді автоматты түрде шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Желі қауіпсіздігін басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттарды ашу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы желіде IP-мекенжайларды автоматты түрде тағайындайды?",
+        "variants": [
+            {
+                "text": "DHCP сервері",
+                "is_correct": true
+            },
+            {
+                "text": "DNS сервері",
+                "is_correct": false
+            },
+            {
+                "text": "FTP сервері",
+                "is_correct": false
+            },
+            {
+                "text": "VPN шлюзі",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi модем",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "LAN (Local Area Network) желісі не сипаттайды?",
+        "variants": [
+            {
+                "text": "Шектеулі аумақтағы құрылғылар арасындағы байланыс",
+                "is_correct": true
+            },
+            {
+                "text": "Ғаламдық желі арқылы байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Мобильді желілер арасындағы байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Радиотолқын арқылы байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Серіктік арналар арқылы байланыс",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "WAN (Wide Area Network) желісі қайсысына жатады?",
+        "variants": [
+            {
+                "text": "Кең ауқымды желілер",
+                "is_correct": true
+            },
+            {
+                "text": "Сымсыз жергілікті желілер",
+                "is_correct": false
+            },
+            {
+                "text": "Ішкі кеңсе желілері",
+                "is_correct": false
+            },
+            {
+                "text": "Bluetooth байланысы",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйелік программалар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі \"порт\" дегеніміз не?",
+        "variants": [
+            {
+                "text": "Қолданба мен желі арасындағы деректер алмасу нүктесі",
+                "is_correct": true
+            },
+            {
+                "text": "Физикалық құрылғының IP мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Желінің жалпы өткізу қабілеті",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғының MAC мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискінің секторы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай хаттама электрондық пошта жіберуге арналған?",
+        "variants": [
+            {
+                "text": "SMTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "POP3 хаттамасы қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Электрондық поштаны қабылдау",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-браузермен байланыс орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік қауіпсіздікті қамтамасыз ету",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды жүктеу",
+                "is_correct": false
+            },
+            {
+                "text": "Желідегі құрылғыларды басқару",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі құрылғылары арасындағы мәлімет алмасуды оңтайландыру үшін қолданылатын құрылғы?",
+        "variants": [
+            {
+                "text": "Коммутатор",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің сенімділігі мен тұрақтылығы неге байланысты?",
+        "variants": [
+            {
+                "text": "Желілік құрылғылардың сапасына",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданбалы бағдарламалардың санына",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйенің нұсқасына",
+                "is_correct": false
+            },
+            {
+                "text": "Желі атына",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың рұқсатына",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "FTP хаттамасы қай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Файлдарды жіберу және алу",
+                "is_correct": true
+            },
+            {
+                "text": "Желіні қорғау",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды сканерлеу",
+                "is_correct": false
+            },
+            {
+                "text": "Интернет қосылымын тексеру",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттарды шолу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде қолданылатын MAC мекенжай қай деңгейге жатады?",
+        "variants": [
+            {
+                "text": "Каналдық деңгейге",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданбалы деңгейге",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік деңгейге",
+                "is_correct": false
+            },
+            {
+                "text": "Көліктік деңгейге",
+                "is_correct": false
+            },
+            {
+                "text": "Физикалық деңгейге",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "NAT технологиясы қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Жеке IP-адрестерді қоғамдық IP-адрестерге аудару",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi сигналын күшейту",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлер арасындағы қашықтықты азайту",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды резервтік көшіру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желілік хаттамалар не үшін қажет?",
+        "variants": [
+            {
+                "text": "Компьютерлердің өзара байланыс ережелерін орнату",
+                "is_correct": true
+            },
+            {
+                "text": "Процессор жұмысын бақылау",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйені жаңарту",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор рұқсаттарын орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Принтерге қосылу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қайсысы компьютердің желіге физикалық қосылуын қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "RJ-45 кабелі",
+                "is_correct": true
+            },
+            {
+                "text": "USB флешка",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс картасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай технологияда деректер пакет ретінде жіберіледі?",
+        "variants": [
+            {
+                "text": "IP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTML",
+                "is_correct": false
+            },
+            {
+                "text": "PDF",
+                "is_correct": false
+            },
+            {
+                "text": "DOC",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сервер дегеніміз не?",
+        "variants": [
+            {
+                "text": "Қызмет көрсететін және ресурстармен бөлісетін құрылғы",
+                "is_correct": true
+            },
+            {
+                "text": "Клиент құрылғысының атауы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек мәлімет сақтайтын құрылғы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек интернетке қосылатын құрылғы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ойындарға арналған құрылғы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"топология\" сөзі нені білдіреді?",
+        "variants": [
+            {
+                "text": "Құрылғылардың бір-бірімен физикалық немесе логикалық байланысу тәсілі",
+                "is_correct": true
+            },
+            {
+                "text": "Желі түрі",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғылардың саны",
+                "is_correct": false
+            },
+            {
+                "text": "Желі жылдамдығы",
+                "is_correct": false
+            },
+            {
+                "text": "Қауіпсіздік деңгейі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде деректердің жоғалуын болдырмау үшін не қажет?",
+        "variants": [
+            {
+                "text": "Қауіпсіздік хаттамаларын пайдалану",
+                "is_correct": true
+            },
+            {
+                "text": "Браузерді жиі жаңарту",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды ауыстыру",
+                "is_correct": false
+            },
+            {
+                "text": "Сканерді қосу",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискіні тазалау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің өткізу қабілеті неге әсер етеді?",
+        "variants": [
+            {
+                "text": "Деректер тасымалдау жылдамдығына",
+                "is_correct": true
+            },
+            {
+                "text": "Процессордың қуатына",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың сапасына",
+                "is_correct": false
+            },
+            {
+                "text": "Клавиатураның жауап беру жылдамдығына",
+                "is_correct": false
+            },
+            {
+                "text": "Мышканың дәлдігіне",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желідегі деректер пакеті дегеніміз не?",
+        "variants": [
+            {
+                "text": "Желі арқылы жіберілетін ақпарат бірлігі",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютерлік ойын",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық поштаның қосымшасы",
+                "is_correct": false
+            },
+            {
+                "text": "Программалық құрал",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискінің бөлшегі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректер пакеттері қандай тәсілмен жеткізіледі?",
+        "variants": [
+            {
+                "text": "Маршрутизация арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Физикалық диск арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Сақтаулы файл арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "PDF құжатпен",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай желілік құрылғы тек деректерді қайта жібереді, бірақ талдамайды?",
+        "variants": [
+            {
+                "text": "Хаб",
+                "is_correct": true
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіге кіру үшін не қажет?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер",
+                "is_correct": false
+            },
+            {
+                "text": "Сканер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "WAN мен LAN арасындағы негізгі айырмашылық неде?",
+        "variants": [
+            {
+                "text": "Қамтитын аумақ көлемінде",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданбалы бағдарламаларда",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор түрінде",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор рұқсатында",
+                "is_correct": false
+            },
+            {
+                "text": "Жедел жад көлемінде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қауіпсіздік үшін не маңызды?",
+        "variants": [
+            {
+                "text": "Құпиясөз және шифрлау",
+                "is_correct": true
+            },
+            {
+                "text": "Экран ажыратымдылығы",
+                "is_correct": false
+            },
+            {
+                "text": "Сақтау құрылғысының көлемі",
+                "is_correct": false
+            },
+            {
+                "text": "Қағаз сапасы",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор түсі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай құрылғы желіде деректерді адрес бойынша бағыттайды?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Желі картасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлердің өзара желіде байланысуына мүмкіндік беретін стандарттар қалай аталады?",
+        "variants": [
+            {
+                "text": "Хаттамалар (протоколдар)",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшалар",
+                "is_correct": false
+            },
+            {
+                "text": "Драйверлер",
+                "is_correct": false
+            },
+            {
+                "text": "Браузерлер",
+                "is_correct": false
+            },
+            {
+                "text": "Құжаттар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "DNS қызметі қалай жұмыс істейді?",
+        "variants": [
+            {
+                "text": "Домендік атауды IP-адреске түрлендіреді",
+                "is_correct": true
+            },
+            {
+                "text": "Электрондық пошта жібереді",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерді сканерлейді",
+                "is_correct": false
+            },
+            {
+                "text": "Мәліметтерді архивтейді",
+                "is_correct": false
+            },
+            {
+                "text": "Процессорды қосады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай хаттама деректерді сенімді түрде жеткізуді қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "TCP",
+                "is_correct": true
+            },
+            {
+                "text": "UDP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай хаттама жылдам, бірақ сенімсіз жеткізуге арналған?",
+        "variants": [
+            {
+                "text": "UDP",
+                "is_correct": true
+            },
+            {
+                "text": "TCP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жергілікті желіге қосылу үшін қандай коннектор қолданылады?",
+        "variants": [
+            {
+                "text": "RJ-45",
+                "is_correct": true
+            },
+            {
+                "text": "HDMI",
+                "is_correct": false
+            },
+            {
+                "text": "USB",
+                "is_correct": false
+            },
+            {
+                "text": "VGA",
+                "is_correct": false
+            },
+            {
+                "text": "DVI",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде мәліметтерді қорғаудың ең тиімді әдісі қандай?",
+        "variants": [
+            {
+                "text": "Шифрлау және брандмауэр қолдану",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютерді қайта қосу",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды ауыстыру",
+                "is_correct": false
+            },
+            {
+                "text": "Тышқан жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискіні тазалау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "DHCP хаттамасы қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "IP мекенжайларды автоматты түрде тағайындайды",
+                "is_correct": true
+            },
+            {
+                "text": "Электрондық поштаны шифрлайды",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерді өшіреді",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс құрылғыларын қосады",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор жарықтығын реттейді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай деңгейде IP-адрес жұмыс істейді?",
+        "variants": [
+            {
+                "text": "Желілік деңгейде",
+                "is_correct": true
+            },
+            {
+                "text": "Физикалық деңгейде",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбалы деңгейде",
+                "is_correct": false
+            },
+            {
+                "text": "Каналдық деңгейде",
+                "is_correct": false
+            },
+            {
+                "text": "Сеанстық деңгейде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сымсыз желідегі қауіпсіздік үшін қандай шаралар маңызды?",
+        "variants": [
+            {
+                "text": "WPA2 шифрлауын қосу",
+                "is_correct": true
+            },
+            {
+                "text": "Құрылғыны қайта жүктеу",
+                "is_correct": false
+            },
+            {
+                "text": "Клавиатураны ауыстыру",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды өшіру",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс картасын жаңарту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы желі ішіндегі трафикті талдай алады?",
+        "variants": [
+            {
+                "text": "Коммутатор",
+                "is_correct": true
+            },
+            {
+                "text": "Принтер",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде порт нөмірі не үшін қажет?",
+        "variants": [
+            {
+                "text": "Белгілі бір қызметке деректерді бағыттау",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютердің атауын көрсету",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискіні пішімдеу",
+                "is_correct": false
+            },
+            {
+                "text": "Сканерді қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіге қосылу үшін қандай амалдық жүйе қажет?",
+        "variants": [
+            {
+                "text": "Желі функциясын қолдайтын кез келген ОЖ",
+                "is_correct": true
+            },
+            {
+                "text": "Тек Windows",
+                "is_correct": false
+            },
+            {
+                "text": "Тек Linux",
+                "is_correct": false
+            },
+            {
+                "text": "Тек Android",
+                "is_correct": false
+            },
+            {
+                "text": "ОЖ қажет емес",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлер арасындағы деректерді шифрлау хаттамасы қайсы?",
+        "variants": [
+            {
+                "text": "SSL",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "ICMP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай құрылғы мәліметтерді бағыттап, ең тиімді жолды таңдайды?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"firewall\" қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Желіні рұқсат етілмеген қатынастан қорғайды",
+                "is_correct": true
+            },
+            {
+                "text": "Файлдарды сығымдайды",
+                "is_correct": false
+            },
+            {
+                "text": "Желі жылдамдығын арттырады",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды басқарады",
+                "is_correct": false
+            },
+            {
+                "text": "Принтерге қосылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректер пакеттерінің жоғалуы қандай себептен болады?",
+        "variants": [
+            {
+                "text": "Желі шамадан тыс жүктелген кезде",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор ажыратымдылығы төмен болғанда",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск толы болғанда",
+                "is_correct": false
+            },
+            {
+                "text": "Пернетақта жұмыс істемегенде",
+                "is_correct": false
+            },
+            {
+                "text": "Сканер ақаулы болғанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сервер мен клиенттің байланысы қалай аталады?",
+        "variants": [
+            {
+                "text": "Клиент-сервер архитектурасы",
+                "is_correct": true
+            },
+            {
+                "text": "Бір деңгейлі байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Мобильді қосылым",
+                "is_correct": false
+            },
+            {
+                "text": "Портативті құрылғы",
+                "is_correct": false
+            },
+            {
+                "text": "Перифериялық жүйе",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректер тасымалданатын ең кіші бірлік қалай аталады?",
+        "variants": [
+            {
+                "text": "Пакет",
+                "is_correct": true
+            },
+            {
+                "text": "Блок",
+                "is_correct": false
+            },
+            {
+                "text": "Сектор",
+                "is_correct": false
+            },
+            {
+                "text": "Байт",
+                "is_correct": false
+            },
+            {
+                "text": "Сигнал",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде \"қанталаған\" құрылғыларды автоматты түрде анықтайтын жүйе қалай аталады?",
+        "variants": [
+            {
+                "text": "IDS (Intrusion Detection System)",
+                "is_correct": true
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Түйінді нүкте\" (node) дегеніміз не?",
+        "variants": [
+            {
+                "text": "Желідегі деректерді қабылдайтын немесе жіберетін құрылғы",
+                "is_correct": true
+            },
+            {
+                "text": "Желідегі қате",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск бөлімі",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың бір бөлігі",
+                "is_correct": false
+            },
+            {
+                "text": "Жедел жад түрі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Wi-Fi желісінде қолданылатын қауіпсіздік хаттамасы:",
+        "variants": [
+            {
+                "text": "WPA3",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "TCP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "HTML",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің жұмыс істеу жылдамдығын өлшейтін бірлік:",
+        "variants": [
+            {
+                "text": "Мбит/сек (Mbps)",
+                "is_correct": true
+            },
+            {
+                "text": "Гбайт",
+                "is_correct": false
+            },
+            {
+                "text": "Вольт",
+                "is_correct": false
+            },
+            {
+                "text": "Дюйм",
+                "is_correct": false
+            },
+            {
+                "text": "Секунд",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "DNS сервердің негізгі қызметі қандай?",
+        "variants": [
+            {
+                "text": "Домендік атауды IP-адреске ауыстыру",
+                "is_correct": true
+            },
+            {
+                "text": "Желіні шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Порттарды жабу",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтінді дыбысқа айналдыру",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйелік уақытты көрсету",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіге физикалық қосылу үшін қандай порт жиі қолданылады?",
+        "variants": [
+            {
+                "text": "Ethernet",
+                "is_correct": true
+            },
+            {
+                "text": "USB",
+                "is_correct": false
+            },
+            {
+                "text": "HDMI",
+                "is_correct": false
+            },
+            {
+                "text": "VGA",
+                "is_correct": false
+            },
+            {
+                "text": "PS/2",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі негізгі қауіп қандай?",
+        "variants": [
+            {
+                "text": "Вирус және кибершабуыл",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор түсінің бұзылуы",
+                "is_correct": false
+            },
+            {
+                "text": "Пернетақта батырмасының сынығы",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер қағазының таусылуы",
+                "is_correct": false
+            },
+            {
+                "text": "Тышқан қозғалысының баяулығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіні бақылау және басқару үшін қандай құрал қолданылады?",
+        "variants": [
+            {
+                "text": "Желі мониторингі бағдарламалары",
+                "is_correct": true
+            },
+            {
+                "text": "Графикалық редакторлар",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтіндік процессорлар",
+                "is_correct": false
+            },
+            {
+                "text": "Музыкалық плеерлер",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-браузерлер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "IP-мекенжайдың негізгі қызметі:",
+        "variants": [
+            {
+                "text": "Құрылғыны желіде бірегей сәйкестендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Дыбысты өңдеу",
+                "is_correct": false
+            },
+            {
+                "text": "Графиканы көрсету",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискіні басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Құжаттарды басып шығару",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай құрылғы басқа құрылғылар арасындағы деректер ағынын басқарады?",
+        "variants": [
+            {
+                "text": "Коммутатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйелік блок",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қашықтан желіге қосылу үшін не қажет?",
+        "variants": [
+            {
+                "text": "VPN қосылымы",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор рұқсаты",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер конфигурациясы",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор жиілігі",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск көлемі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"IPsec\" технологиясы қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Желілік деректерді қорғау және шифрлау",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-браузерлерді басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың жарықтығын реттеу",
+                "is_correct": false
+            },
+            {
+                "text": "Құжаттарды принтерге жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбысты өңдеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай құрылғы сигналдарды қабылдап, қайта жіберу арқылы желіні кеңейтеді?",
+        "variants": [
+            {
+                "text": "Қайталағыш (репитер)",
+                "is_correct": true
+            },
+            {
+                "text": "Принтер",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлер арасында файл бөлісу үшін ең жиі қолданылатын хаттама:",
+        "variants": [
+            {
+                "text": "FTP",
+                "is_correct": true
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "TCP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай технология бірнеше желілік құрылғының IP-адресін бір қоғамдық IP-адреспен біріктіреді?",
+        "variants": [
+            {
+                "text": "NAT",
+                "is_correct": true
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "IMAP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі желілік адаптер қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Компьютерді желімен байланыстырады",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор түсін өзгертеді",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс шығарады",
+                "is_correct": false
+            },
+            {
+                "text": "Қағаз басып шығарады",
+                "is_correct": false
+            },
+            {
+                "text": "Құжаттарды редакциялайды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде мәліметтерді бір компьютерден екіншісіне жіберу үшін не қажет?",
+        "variants": [
+            {
+                "text": "Байланыс арнасы",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор рұқсаты",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск көлемі",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтіндік редактор",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс жүйесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Қабаттар моделі\" (OSI моделі) не үшін қажет?",
+        "variants": [
+            {
+                "text": "Желідегі байланыс процесін құрылымдауға",
+                "is_correct": true
+            },
+            {
+                "text": "Принтер жылдамдығын арттыруға",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерді қайта іске қосуға",
+                "is_correct": false
+            },
+            {
+                "text": "Сканерді іске қосуға",
+                "is_correct": false
+            },
+            {
+                "text": "Клавиатураны баптауға",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі \"физикалық қабат\" қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Сигналдарды жіберу және қабылдау",
+                "is_correct": true
+            },
+            {
+                "text": "Құжаттарды өңдеу",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламаны ашу",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды архивтеу",
+                "is_correct": false
+            },
+            {
+                "text": "Графика салу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "MAC-мекенжайдың негізгі ерекшелігі:",
+        "variants": [
+            {
+                "text": "Құрылғыға тұрақты түрде бекітіледі",
+                "is_correct": true
+            },
+            {
+                "text": "Желіге қосылған сайын өзгереді",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-браузерге тәуелді",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискіде сақталады",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторда көрсетіледі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"маршрутизатор\" не үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Деректер пакеттерін дұрыс бағыттау",
+                "is_correct": true
+            },
+            {
+                "text": "Қағаз басып шығару",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды ашу",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтін жазу",
+                "is_correct": false
+            },
+            {
+                "text": "Графика жасау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жергілікті желіде құрылғылар бір-бірімен қалай байланысады?",
+        "variants": [
+            {
+                "text": "Ортақ желі арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Bluetooth арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Мобильді желі арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек бұлттық сервис арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек кабельсіз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "FTP серверінің қызметі қандай?",
+        "variants": [
+            {
+                "text": "Файлдарды сақтау және бөлісу",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-сайттарды көрсету",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық поштаны қабылдау",
+                "is_correct": false
+            },
+            {
+                "text": "Бейне сигнал жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор рұқсаты",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "DNS жүйесінің артықшылығы:",
+        "variants": [
+            {
+                "text": "Домендік атауларды есте сақтау оңай",
+                "is_correct": true
+            },
+            {
+                "text": "Вирусқа қарсы қорғаныс",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйелік уақытты өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарлама жазу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютер желісіндегі деректерді шифрлау не үшін қажет?",
+        "variants": [
+            {
+                "text": "Қауіпсіздік үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Құжаттарды басып шығару үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды жаңарту үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс сапасын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Сурет салу үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ICMP хаттамасы қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Желі диагностикасы және қателерді анықтау",
+                "is_correct": true
+            },
+            {
+                "text": "Файлдарды шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық пошта жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Құжаттарды редакциялау",
+                "is_correct": false
+            },
+            {
+                "text": "Принтерді басқару",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде артық жүктеме неге әкелуі мүмкін?",
+        "variants": [
+            {
+                "text": "Желі жылдамдығының төмендеуіне",
+                "is_correct": true
+            },
+            {
+                "text": "Монитордың өшуіне",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискінің істен шығуына",
+                "is_correct": false
+            },
+            {
+                "text": "Сканердің тоқтауына",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтіндік құжаттың өшуіне",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Қашықтағы жұмыс үстелі\" қызметі не үшін қажет?",
+        "variants": [
+            {
+                "text": "Басқа компьютерге қашықтан қосылу үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Құжаттарды сканерлеу үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Музыка тыңдау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды баптау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Принтерге қағаз қосу үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"қалып-күй коды\" нені білдіреді?",
+        "variants": [
+            {
+                "text": "Қосылу немесе деректерді жеткізу барысы туралы ақпарат",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютердің моделі",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор ажыратымдылығы",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс деңгейі",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск көлемі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютер желісінде қандай хаттама домен атауын IP-адреске түрлендіреді?",
+        "variants": [
+            {
+                "text": "DNS",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай құралдар арқылы қауіптерден қорғануға болады?",
+        "variants": [
+            {
+                "text": "Антивирустар мен брандмауэрлар",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор және сканер",
+                "is_correct": false
+            },
+            {
+                "text": "Пернетақта мен тышқан",
+                "is_correct": false
+            },
+            {
+                "text": "Қағаз және принтер",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтіндік редакторлар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Виртуалды жеке желі қалай аталады?",
+        "variants": [
+            {
+                "text": "VPN",
+                "is_correct": true
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "USB",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютер желісінің логикалық құрылымы қалай аталады?",
+        "variants": [
+            {
+                "text": "Топология",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымша",
+                "is_correct": false
+            },
+            {
+                "text": "Браузер",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Файл",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Маршрутизатор қай деңгейде жұмыс істейді?",
+        "variants": [
+            {
+                "text": "Желілік деңгейде",
+                "is_correct": true
+            },
+            {
+                "text": "Физикалық деңгейде",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбалы деңгейде",
+                "is_correct": false
+            },
+            {
+                "text": "Сеанстық деңгейде",
+                "is_correct": false
+            },
+            {
+                "text": "Каналдық деңгейде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде “localhost” не білдіреді?",
+        "variants": [
+            {
+                "text": "Өз компьютеріңнің ішкі IP-адресі (127.0.0.1)",
+                "is_correct": true
+            },
+            {
+                "text": "Серіктік желі адресі",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайт сервері",
+                "is_correct": false
+            },
+            {
+                "text": "FTP сервері",
+                "is_correct": false
+            },
+            {
+                "text": "DNS адресі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі өнімділігін талдау үшін қандай құралдар қолданылады?",
+        "variants": [
+            {
+                "text": "Желілік анализаторлар",
+                "is_correct": true
+            },
+            {
+                "text": "Видеоредакторлар",
+                "is_correct": false
+            },
+            {
+                "text": "Графикалық өңдегіштер",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыс шығаратын құрылғылар",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-браузерлер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі IP-адрестің екі негізгі түрі қандай?",
+        "variants": [
+            {
+                "text": "IPv4 және IPv6",
+                "is_correct": true
+            },
+            {
+                "text": "TCP және UDP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS және DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP және FTP",
+                "is_correct": false
+            },
+            {
+                "text": "LAN және WAN",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "DNS мекенжайы өзгерген жағдайда не болуы мүмкін?",
+        "variants": [
+            {
+                "text": "Веб-сайттарға қолжеткізу қиындайды",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор өшеді",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск форматталады",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтіндік файлдар өшіріледі",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер қағаз шығармайды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде бірнеше құрылғыға бірдей IP мекенжай тағайындау неге әкеледі?",
+        "variants": [
+            {
+                "text": "IP қақтығысына",
+                "is_correct": true
+            },
+            {
+                "text": "Желінің жылдамдауына",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютердің өшуіне",
+                "is_correct": false
+            },
+            {
+                "text": "Дыбыстың шығуына",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискінің толуына",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде ақпараттың бүтіндігін қамтамасыз ететін хаттама:",
+        "variants": [
+            {
+                "text": "TCP",
+                "is_correct": true
+            },
+            {
+                "text": "UDP",
+                "is_correct": false
+            },
+            {
+                "text": "HTML",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Электрондық поштаны қабылдау үшін қолданылатын хаттама:",
+        "variants": [
+            {
+                "text": "POP3",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "IP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі \"арна\" (channel) дегеніміз не?",
+        "variants": [
+            {
+                "text": "Деректерді жеткізуге арналған орта",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-сайттың адресі",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың моделі",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютер маркасы",
+                "is_correct": false
+            },
+            {
+                "text": "Файл форматы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің жұмысын диагностикалау үшін не қолданылады?",
+        "variants": [
+            {
+                "text": "Ping және Tracert командалары",
+                "is_correct": true
+            },
+            {
+                "text": "Paint бағдарламасы",
+                "is_correct": false
+            },
+            {
+                "text": "Word процессоры",
+                "is_correct": false
+            },
+            {
+                "text": "Excel кестесі",
+                "is_correct": false
+            },
+            {
+                "text": "PowerPoint слайдтары",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "IP-адрестегі «255.255.255.0» мәні нені білдіреді?",
+        "variants": [
+            {
+                "text": "Ішкі желінің маскасы",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-сайт адресі",
+                "is_correct": false
+            },
+            {
+                "text": "DNS сервері",
+                "is_correct": false
+            },
+            {
+                "text": "Шифрлау коды",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор атауы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі қауіпсіздік саясаттарының мақсаты:",
+        "variants": [
+            {
+                "text": "Рұқсат етілмеген қолжетімдіктен қорғау",
+                "is_correct": true
+            },
+            {
+                "text": "Графиканы жақсарту",
+                "is_correct": false
+            },
+            {
+                "text": "Сканерді басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор жарығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Тышқан сезімталдығын реттеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі арқылы файл алмасуға мүмкіндік беретін желілік хаттама:",
+        "variants": [
+            {
+                "text": "FTP",
+                "is_correct": true
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде артықтықты болдырмау үшін не қажет?",
+        "variants": [
+            {
+                "text": "Желілік құрылым мен трафикті дұрыс жоспарлау",
+                "is_correct": true
+            },
+            {
+                "text": "Принтерді ауыстыру",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды жаңарту",
+                "is_correct": false
+            },
+            {
+                "text": "Процессорды тазарту",
+                "is_correct": false
+            },
+            {
+                "text": "Тышқанды өзгерту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жергілікті желіде әр құрылғы қандай бірегей сәйкестендіргішке ие?",
+        "variants": [
+            {
+                "text": "MAC-мекенжай",
+                "is_correct": true
+            },
+            {
+                "text": "Пайдаланушы аты",
+                "is_correct": false
+            },
+            {
+                "text": "Сериялық нөмір",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютер атауы",
+                "is_correct": false
+            },
+            {
+                "text": "ОЖ нұсқасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі ARP хаттамасының қызметі:",
+        "variants": [
+            {
+                "text": "IP-адресті MAC-мекенжайға түрлендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Файлды шифрлау",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық пошта жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Құжатты ашу",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні өшіру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қолданылатын логикалық мекенжай:",
+        "variants": [
+            {
+                "text": "IP-адрес",
+                "is_correct": true
+            },
+            {
+                "text": "MAC-мекенжай",
+                "is_correct": false
+            },
+            {
+                "text": "Сериялық нөмір",
+                "is_correct": false
+            },
+            {
+                "text": "DNS атауы",
+                "is_correct": false
+            },
+            {
+                "text": "Хаттама түрі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желілік қауіпсіздікті бұзатын әрекет:",
+        "variants": [
+            {
+                "text": "Кибершабуыл",
+                "is_correct": true
+            },
+            {
+                "text": "Мониторды қосу",
+                "is_correct": false
+            },
+            {
+                "text": "Файлды сақтау",
+                "is_correct": false
+            },
+            {
+                "text": "Принтерге қағаз салу",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтінді көшіру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде Wi-Fi сигналын күшейтуге арналған құрылғы:",
+        "variants": [
+            {
+                "text": "Репитер",
+                "is_correct": true
+            },
+            {
+                "text": "Сканер",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор",
+                "is_correct": false
+            },
+            {
+                "text": "Тышқан",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютер желісінде \"прокси-сервер\" қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Желіні делдал арқылы басқару",
+                "is_correct": true
+            },
+            {
+                "text": "Файлдарды архивтеу",
+                "is_correct": false
+            },
+            {
+                "text": "Графикалық өңдеу",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтін енгізу",
+                "is_correct": false
+            },
+            {
+                "text": "Музыка шығару",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"трафик\" дегеніміз не?",
+        "variants": [
+            {
+                "text": "Желідегі деректер ағыны",
+                "is_correct": true
+            },
+            {
+                "text": "Қатты диск көлемі",
+                "is_correct": false
+            },
+            {
+                "text": "Жад көлемі",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор жиілігі",
+                "is_correct": false
+            },
+            {
+                "text": "Тышқан жылдамдығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі SSID нені білдіреді?",
+        "variants": [
+            {
+                "text": "Сымсыз желінің атауы",
+                "is_correct": true
+            },
+            {
+                "text": "Сервер IP мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-браузер түрі",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік адаптер моделі",
+                "is_correct": false
+            },
+            {
+                "text": "Монитор ажыратымдылығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай хаттама интернетте веб-парақтарды көру үшін қолданылады?",
+        "variants": [
+            {
+                "text": "HTTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            },
+            {
+                "text": "TCP",
+                "is_correct": false
+            },
+            {
+                "text": "IP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"IP адрес\" не үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Әрбір құрылғыны бірегей анықтау үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді шифрлау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Интернеттің жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлерді біріктіру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлік вирустарды анықтау үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі топологиясының қай түрінде барлық құрылғылар бір ортаға қосылады?",
+        "variants": [
+            {
+                "text": "Жұлдыз",
+                "is_correct": true
+            },
+            {
+                "text": "Сызықтық",
+                "is_correct": false
+            },
+            {
+                "text": "Толқын",
+                "is_correct": false
+            },
+            {
+                "text": "Рингтік",
+                "is_correct": false
+            },
+            {
+                "text": "Аралас",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Локальды желіде қандай құрылғы компьютерлер арасында деректерді таратуға арналған?",
+        "variants": [
+            {
+                "text": "Свитч",
+                "is_correct": true
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"DNS\" аббревиатурасы не білдіреді?",
+        "variants": [
+            {
+                "text": "Домендік аттарды шешу жүйесі",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді сақтау жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік қызмет көрсету жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Жергілікті жүйелер байланысы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді тарату жүйесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай технология интернетке қосылу үшін телефон желісін пайдаланады?",
+        "variants": [
+            {
+                "text": "ADSL",
+                "is_correct": true
+            },
+            {
+                "text": "Wi-Fi",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet",
+                "is_correct": false
+            },
+            {
+                "text": "Bluetooth",
+                "is_correct": false
+            },
+            {
+                "text": "VPN",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"SSL/TLS\" протоколы қандай мақсатқа арналған?",
+        "variants": [
+            {
+                "text": "Деректерді шифрлау және қорғау",
+                "is_correct": true
+            },
+            {
+                "text": "Желіге қосылу жылдамдығын арттыру",
+                "is_correct": false
+            },
+            {
+                "text": "Электрондық пошта жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді сақтау",
+                "is_correct": false
+            },
+            {
+                "text": "Желіге құрылғыларды қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы сымсыз желіге қосылған құрылғылардың арасындағы байланыс орнатуды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Ethernet картасы",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі қауіпсіздігін қамтамасыз ететін құрылғы қандай?",
+        "variants": [
+            {
+                "text": "Фаервол (Firewall)",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютерлер арасындағы деректерді бағыттап, әр түрлі желілер арасында байланыс орнатуды қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Wi-Fi маршрутизаторы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интернеттегі сервермен байланыс жасау үшін қай порт нөмірі қолданылады?",
+        "variants": [
+            {
+                "text": "80 (HTTP үшін)",
+                "is_correct": true
+            },
+            {
+                "text": "443 (HTTPS үшін)",
+                "is_correct": false
+            },
+            {
+                "text": "21 (FTP үшін)",
+                "is_correct": false
+            },
+            {
+                "text": "25 (SMTP үшін)",
+                "is_correct": false
+            },
+            {
+                "text": "110 (POP3 үшін)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай құрылғы компьютерлерді қосуға және олар арасында деректерді жіберуге мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Хаб",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Маршрутизатор",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "VPN қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Қауіпсіз және жеке интернет байланысын орнату үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Желі жылдамдығын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Компьютерлер арасындағы физикалық байланыс орнату үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желіні қадағалау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Желі құрылғыларын басқару үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде мәліметтерді тасымалдау үшін қандай құрылғы IP-адресін пайдаланады?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"DNS\" қызметі қандай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Домендік атауларды IP-адреске түрлендіру",
+                "is_correct": true
+            },
+            {
+                "text": "Электрондық поштаны басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Интернет-трафикті басқару",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттардың жұмысын бақылау",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды бір желіде қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қандай құрылғы компьютердің физикалық желіге қосылуын қамтамасыз етеді?",
+        "variants": [
+            {
+                "text": "Желі картасы",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желідегі \"порт\" дегеніміз не?",
+        "variants": [
+            {
+                "text": "Қолданба мен желі арасындағы деректер алмасу нүктесі",
+                "is_correct": true
+            },
+            {
+                "text": "Физикалық құрылғының IP мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Желінің жалпы өткізу қабілеті",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғының MAC мекенжайы",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты дискінің секторы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай хаттама электрондық пошта жіберуге арналған?",
+        "variants": [
+            {
+                "text": "SMTP",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "HTTP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "POP3 хаттамасы қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Электрондық поштаны қабылдау",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-браузермен байланыс орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Желілік қауіпсіздікті қамтамасыз ету",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды жүктеу",
+                "is_correct": false
+            },
+            {
+                "text": "Желідегі құрылғыларды басқару",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желі құрылғылары арасындағы мәлімет алмасуды оңтайландыру үшін қолданылатын құрылғы?",
+        "variants": [
+            {
+                "text": "Коммутатор",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Модем",
+                "is_correct": false
+            },
+            {
+                "text": "Шлюз",
+                "is_correct": false
+            },
+            {
+                "text": "Процессор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желінің сенімділігі мен тұрақтылығы неге байланысты?",
+        "variants": [
+            {
+                "text": "Желілік құрылғылардың сапасына",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданбалы бағдарламалардың санына",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйенің нұсқасына",
+                "is_correct": false
+            },
+            {
+                "text": "Желі атына",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың рұқсатына",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "FTP хаттамасы қай мақсатта қолданылады?",
+        "variants": [
+            {
+                "text": "Файлдарды жіберу және алу",
+                "is_correct": true
+            },
+            {
+                "text": "Желіні қорғау",
+                "is_correct": false
+            },
+            {
+                "text": "Құрылғыларды сканерлеу",
+                "is_correct": false
+            },
+            {
+                "text": "Интернет қосылымын тексеру",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттарды шолу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлер арасындағы деректерді шифрлау хаттамасы қайсы?",
+        "variants": [
+            {
+                "text": "SSL",
+                "is_correct": true
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "POP3",
+                "is_correct": false
+            },
+            {
+                "text": "ICMP",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде қандай құрылғы мәліметтерді бағыттап, ең тиімді жолды таңдайды?",
+        "variants": [
+            {
+                "text": "Маршрутизатор",
+                "is_correct": true
+            },
+            {
+                "text": "Хаб",
+                "is_correct": false
+            },
+            {
+                "text": "Коммутатор",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск",
+                "is_correct": false
+            },
+            {
+                "text": "Принтер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде \"firewall\" қандай қызмет атқарады?",
+        "variants": [
+            {
+                "text": "Желіні рұқсат етілмеген қатынастан қорғайды",
+                "is_correct": true
+            },
+            {
+                "text": "Файлдарды сығымдайды",
+                "is_correct": false
+            },
+            {
+                "text": "Желі жылдамдығын арттырады",
+                "is_correct": false
+            },
+            {
+                "text": "Мониторды басқарады",
+                "is_correct": false
+            },
+            {
+                "text": "Принтерге қосылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректер пакеттерінің жоғалуы қандай себептен болады?",
+        "variants": [
+            {
+                "text": "Желі шамадан тыс жүктелген кезде",
+                "is_correct": true
+            },
+            {
+                "text": "Монитор ажыратымдылығы төмен болғанда",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск толы болғанда",
+                "is_correct": false
+            },
+            {
+                "text": "Пернетақта жұмыс істемегенде",
+                "is_correct": false
+            },
+            {
+                "text": "Сканер ақаулы болғанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сервер мен клиенттің байланысы қалай аталады?",
+        "variants": [
+            {
+                "text": "Клиент-сервер архитектурасы",
+                "is_correct": true
+            },
+            {
+                "text": "Бір деңгейлі байланыс",
+                "is_correct": false
+            },
+            {
+                "text": "Мобильді қосылым",
+                "is_correct": false
+            },
+            {
+                "text": "Портативті құрылғы",
+                "is_correct": false
+            },
+            {
+                "text": "Перифериялық жүйе",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Компьютерлік желіде деректер тасымалданатын ең кіші бірлік қалай аталады?",
+        "variants": [
+            {
+                "text": "Пакет",
+                "is_correct": true
+            },
+            {
+                "text": "Блок",
+                "is_correct": false
+            },
+            {
+                "text": "Сектор",
+                "is_correct": false
+            },
+            {
+                "text": "Байт",
+                "is_correct": false
+            },
+            {
+                "text": "Сигнал",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Желіде \"қанталаған\" құрылғыларды автоматты түрде анықтайтын жүйе қалай аталады?",
+        "variants": [
+            {
+                "text": "IDS (Intrusion Detection System)",
+                "is_correct": true
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            },
+            {
+                "text": "DHCP",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "SMTP",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Түйінді нүкте\" (node) дегеніміз не?",
+        "variants": [
+            {
+                "text": "Желідегі деректерді қабылдайтын немесе жіберетін құрылғы",
+                "is_correct": true
+            },
+            {
+                "text": "Желідегі қате",
+                "is_correct": false
+            },
+            {
+                "text": "Қатты диск бөлімі",
+                "is_correct": false
+            },
+            {
+                "text": "Монитордың бір бөлігі",
+                "is_correct": false
+            },
+            {
+                "text": "Жедел жад түрі",
+                "is_correct": false
+            }
+        ]
+    }
+]

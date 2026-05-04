@@ -1,0 +1,4202 @@
+[
+    {
+        "question": "No-Code әзірлеме дегеніміз не?",
+        "variants": [
+            {
+                "text": "Код жазбай, визуалды құралдармен бағдарламалық қамтамасыз етуді құру.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалау тілдерін қолдану арқылы бағдарламалық қамтамасыз етуді құру.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалық қамтамасыз етуді құрудың тек қарапайым әдісі.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалық қамтамасыз етуді тек тестілеу әдісі.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлеменің негізгі артықшылығының бірі қандай?",
+        "variants": [
+            {
+                "text": "Жылдам әзірлеу.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі функционалдылық.",
+                "is_correct": false
+            },
+            {
+                "text": "Кәсіби бағдарламашыларды жалдау.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалау бойынша терең білімді қажет ету.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлеменің негізгі шектеулерінің бірі қандай?",
+        "variants": [
+            {
+                "text": "Функционалдылықтың шектеулігі.",
+                "is_correct": true
+            },
+            {
+                "text": "Жоғары жылдамдықта әзірлеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Төмен құны.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолжетімділік.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінің тарихында веб-құрастырушылардың маңызы қандай?",
+        "variants": [
+            {
+                "text": "Веб-сайттарды кодсыз құруды көпшілікке танытты.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі қосымшаларды құруға мүмкіндік берді.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалауды міндетті етті.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеу процесін баяулатты.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінде drag-and-drop интерфейсінің қызметі қандай?",
+        "variants": [
+            {
+                "text": "Элементтерді жылжытып, интерфейс құру.",
+                "is_correct": true
+            },
+            {
+                "text": "Код жазу.",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорларды құру.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбаны тестілеу.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Low-code платформалары no-code платформаларынан несімен ерекшеленеді?",
+        "variants": [
+            {
+                "text": "Қосымша бағдарламалау дағдыларын қажет етеді.",
+                "is_correct": true
+            },
+            {
+                "text": "Кодты мүлдем қажет етпейді.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеу процесін ұзартады.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолжетімділігі төмен.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесі кімдерге арналған?",
+        "variants": [
+            {
+                "text": "Бағдарламалау білімі жоқ пайдаланушыларға.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламашыларға.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ірі компанияларға.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ғалымдарға.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code платформаларында дайын компоненттердің рөлі қандай?",
+        "variants": [
+            {
+                "text": "Әзірлеуді жеделдету және оңайлату.",
+                "is_correct": true
+            },
+            {
+                "text": "Код жазуды міндеттеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбаларды тестілеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорларды құру.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазіргі No-Code платформалары қандай мүмкіндіктерге ие?",
+        "variants": [
+            {
+                "text": "Күрделі қосымшаларды құруға мүмкіндік береді.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қарапайым веб-сайттарды құруға мүмкіндік береді.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек статикалық беттерді құруға мүмкіндік береді.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек презентация құруға мүмкіндік береді.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінің дамуына қандай факторлар әсер етті?",
+        "variants": [
+            {
+                "text": "Машиналық оқыту мен AI-дің интеграциясы.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалаудың қиындауы.",
+                "is_correct": false
+            },
+            {
+                "text": "Деректердің азаюы.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданушылардың қажеттілігінің төмендеуі.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінің басты мақсаты қандай?",
+        "variants": [
+            {
+                "text": "Әзірлеуді қолжетімді және жылдам ету.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек кәсіби бағдарламашылардың жұмысын жеңілдету.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбалардың сапасын төмендету.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеу құнын арттыру.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code-тың болашағы қандай?",
+        "variants": [
+            {
+                "text": "AI және machine learning-мен интеграцияның тереңдеуі.",
+                "is_correct": true
+            },
+            {
+                "text": "No-Code платформаларының қолданыстан шығуы.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қарапайым қолданбаларды құруға арналған платформалардың дамуы.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеме процесінің толық тоқтауы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code платформаларында қауіпсіздік мәселесі қалай шешіледі?",
+        "variants": [
+            {
+                "text": "Кейбір платформалар қауіпсіздік бойынша шектеулерге ие болуы мүмкін.",
+                "is_correct": true
+            },
+            {
+                "text": "Барлық платформалар 100% қауіпсіздікпен қамтамасыз етеді.",
+                "is_correct": false
+            },
+            {
+                "text": "Қауіпсіздік мәселесі мүлдем жоқ.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек пайдаланушылардың жауапкершілігінде.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Азаматтық әзірлеуші (citizen developer) дегеніміз кім?",
+        "variants": [
+            {
+                "text": "Бағдарламалаушы емес, бірақ цифрлық өнімдерді жасай алатын адам.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек кәсіби бағдарламашы.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалық қамтамасыз етуді тек тестілеуші.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек дерекқорларды басқарушы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code-ты таңдағанда неге назар аудару керек?",
+        "variants": [
+            {
+                "text": "Нақты тапсырмалар үшін қолайлы платформаны таңдау.",
+                "is_correct": true
+            },
+            {
+                "text": "Ең арзан платформаны таңдау.",
+                "is_correct": false
+            },
+            {
+                "text": "Ең танымал платформаны таңдау.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қарапайым платформаны таңдау.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code веб-әзірлеме дегеніміз не?",
+        "variants": [
+            {
+                "text": "Код жазбай веб-сайттарды құру.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалау арқылы веб-сайттарды құру.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек күрделі веб-қосымшаларды әзірлеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек HTML арқылы сайттарды құру.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Төмендегі артықшылықтардың қайсысы no-code веб-әзірлемеге қатысты?",
+        "variants": [
+            {
+                "text": "Әзірлеу жылдамдығы.",
+                "is_correct": true
+            },
+            {
+                "text": "Бағдарламалау бойынша терең білімнің қажеттілігі.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеуге жоғары шығындар.",
+                "is_correct": false
+            },
+            {
+                "text": "Құралдарды пайдаланудың қиындығы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларының көмегімен веб-жобалардың қандай түрін жасауға болады?",
+        "variants": [
+            {
+                "text": "Лендингтер.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі ойын қосымшалары.",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйелер.",
+                "is_correct": false
+            },
+            {
+                "text": "Аппараттық қамтамасыз ету.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Төменде аталғандардың қайсысы веб-әзірлеуге арналған no-code платформасы болып табылады?",
+        "variants": [
+            {
+                "text": "Wix.",
+                "is_correct": true
+            },
+            {
+                "text": "JavaScript.",
+                "is_correct": false
+            },
+            {
+                "text": "Python.",
+                "is_correct": false
+            },
+            {
+                "text": "C++.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Wix-ті басқа no-code платформаларынан қандай ерекшелігі ажыратады?",
+        "variants": [
+            {
+                "text": "Қолданудың қарапайымдылығы.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі интерфейс.",
+                "is_correct": false
+            },
+            {
+                "text": "Шаблон таңдауының аздығы.",
+                "is_correct": false
+            },
+            {
+                "text": "Жоғары құны.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Squarespace өз жарнамасында қандай ерекшелікке баса назар аударады?",
+        "variants": [
+            {
+                "text": "Элегантты дизайн.",
+                "is_correct": true
+            },
+            {
+                "text": "Пайдаланудың қарапайымдылығы.",
+                "is_correct": false
+            },
+            {
+                "text": "Күрделі қосымшаларды құру мүмкіндігі.",
+                "is_correct": false
+            },
+            {
+                "text": "Төмен құны.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа дизайн үшін неғұрлым жетілдірілген құралдарды ұсынады?",
+        "variants": [
+            {
+                "text": "Webflow.",
+                "is_correct": true
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            },
+            {
+                "text": "Tilda.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа код жазбай веб-қосымшаларды жасауға арналған?",
+        "variants": [
+            {
+                "text": "Bubble.",
+                "is_correct": true
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Tilda беттерді жасауға қандай тәсілді ұсынады?",
+        "variants": [
+            {
+                "text": "Модульдік.",
+                "is_correct": true
+            },
+            {
+                "text": "Сызықтық.",
+                "is_correct": false
+            },
+            {
+                "text": "Күрделі.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолмен.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа портфолио құруға жақсы сәйкес келеді?",
+        "variants": [
+            {
+                "text": "Squarespace.",
+                "is_correct": true
+            },
+            {
+                "text": "Bubble.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа таза кодты экспорттауға мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Webflow.",
+                "is_correct": true
+            },
+            {
+                "text": "Tilda.",
+                "is_correct": false
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа қарапайым визитка сайттарын жасауға жарамды?",
+        "variants": [
+            {
+                "text": "Wix.",
+                "is_correct": true
+            },
+            {
+                "text": "Bubble.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа дерекқорлары бар күрделі веб-қосымшаларды жасауға бағытталған?",
+        "variants": [
+            {
+                "text": "Bubble.",
+                "is_correct": true
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            },
+            {
+                "text": "Tilda.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа дайын блоктардың үлкен таңдауын ұсынады?",
+        "variants": [
+            {
+                "text": "Tilda.",
+                "is_correct": true
+            },
+            {
+                "text": "Bubble.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жаңадан бастаушылар үшін қай платформаның интерфейсі ең күрделі?",
+        "variants": [
+            {
+                "text": "Webflow.",
+                "is_correct": true
+            },
+            {
+                "text": "Tilda.",
+                "is_correct": false
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қарапайым сайтты жылдам іске қосу үшін қай платформаны таңдаған дұрыс?",
+        "variants": [
+            {
+                "text": "Wix.",
+                "is_correct": true
+            },
+            {
+                "text": "Bubble.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа дизайн үшін AI-көмекшісін ұсынады?",
+        "variants": [
+            {
+                "text": "Wix.",
+                "is_correct": true
+            },
+            {
+                "text": "Bubble.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            },
+            {
+                "text": "Tilda.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа типографикаға баса назар аударады?",
+        "variants": [
+            {
+                "text": "Tilda.",
+                "is_correct": true
+            },
+            {
+                "text": "Bubble.",
+                "is_correct": false
+            },
+            {
+                "text": "Webflow.",
+                "is_correct": false
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа күрделі дизайны бар сайттарды жасауға жарамды?",
+        "variants": [
+            {
+                "text": "Webflow.",
+                "is_correct": true
+            },
+            {
+                "text": "Wix.",
+                "is_correct": false
+            },
+            {
+                "text": "Squarespace.",
+                "is_correct": false
+            },
+            {
+                "text": "Tilda.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасын таңдау неге байланысты?",
+        "variants": [
+            {
+                "text": "Жобаның мақсаты мен қажеттіліктеріне.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек платформаның құнына.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек платформаның танымалдығына.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек әзірлеу жылдамдығына.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформалары дегеніміз не?",
+        "variants": [
+            {
+                "text": "Код жазбай-ақ веб-өнімдерді жасауға арналған құралдар",
+                "is_correct": true
+            },
+            {
+                "text": "Бағдарламалау білімін қажет ететін платформалар",
+                "is_correct": false
+            },
+            {
+                "text": "Қолмен код жазуға арналған құралдар",
+                "is_correct": false
+            },
+            {
+                "text": "Тек дерекқорлармен жұмыс істеуге арналған құралдар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Веб-сайт жасаудың бірінші кезеңі қандай?",
+        "variants": [
+            {
+                "text": "Құрылым мен интерфейсті жобалау",
+                "is_correct": true
+            },
+            {
+                "text": "Код жазу",
+                "is_correct": false
+            },
+            {
+                "text": "Сайтты хостингке орналастыру",
+                "is_correct": false
+            },
+            {
+                "text": "Контентті SEO үшін оңтайландыру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code арқылы сайт жасау үшін жиі қолданылатын құрал қандай?",
+        "variants": [
+            {
+                "text": "Webflow",
+                "is_correct": true
+            },
+            {
+                "text": "Visual Studio Code",
+                "is_correct": false
+            },
+            {
+                "text": "Adobe Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Docker",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Веб-сайт құрылымына жатпайтын элемент қайсысы?",
+        "variants": [
+            {
+                "text": "Контенттік толтыру",
+                "is_correct": true
+            },
+            {
+                "text": "Тақырып (header)",
+                "is_correct": false
+            },
+            {
+                "text": "Төменгі бөлім (footer)",
+                "is_correct": false
+            },
+            {
+                "text": "Навигациялық мәзір",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Интерфейсті жобалау кезінде нені ескеру қажет?",
+        "variants": [
+            {
+                "text": "Пайдалануға ыңғайлылық (UX)",
+                "is_correct": true
+            },
+            {
+                "text": "Тек түстер мен қаріптерді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек жүктеу жылдамдығын",
+                "is_correct": false
+            },
+            {
+                "text": "Тек бағдарламалық кодты",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Адаптивті дизайн дегеніміз не?",
+        "variants": [
+            {
+                "text": "Әртүрлі құрылғыларда дұрыс көрсетілетін дизайн",
+                "is_correct": true
+            },
+            {
+                "text": "Тек мобильді құрылғыларға арналған дизайн",
+                "is_correct": false
+            },
+            {
+                "text": "Толығымен статикалық веб-бет",
+                "is_correct": false
+            },
+            {
+                "text": "Жоғары сапалы суреттер жиынтығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларында компоненттермен жұмыс істеуге не кіреді?",
+        "variants": [
+            {
+                "text": "Дайын элементтер мен виджеттерді пайдалану",
+                "is_correct": true
+            },
+            {
+                "text": "Серверлік бөлікті бағдарламалау",
+                "is_correct": false
+            },
+            {
+                "text": "Мобильді қосымшалар әзірлеу",
+                "is_correct": false
+            },
+            {
+                "text": "Күрделі алгоритмдерді жазу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code редакторларында стильдерді қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "Интерфейс параметрлерін баптау арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "JavaScript кодын пайдалану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "CSS кодын қолмен жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Bootstrap кітапханаларын қосу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Веб-дизайндағы типографияның рөлі қандай?",
+        "variants": [
+            {
+                "text": "Контенттің оқылуына әсер етеді",
+                "is_correct": true
+            },
+            {
+                "text": "Маңызы жоқ",
+                "is_correct": false
+            },
+            {
+                "text": "Тек сайттың жүктелу жылдамдығына әсер етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек сәндік мақсатта қолданылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code конструкторларында жиі қолданылатын интерфейс элементтері қандай?",
+        "variants": [
+            {
+                "text": "Түймешіктер, пішіндер, суреттер",
+                "is_correct": true
+            },
+            {
+                "text": "Әзірлеуші ​​консолі, SQL сұраныстары",
+                "is_correct": false
+            },
+            {
+                "text": "Екілік код, жүйелік модульдер",
+                "is_correct": false
+            },
+            {
+                "text": "SSH қолжетімділігі, терминал",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларының дәстүрлі веб-әзірлемеден артықшылығы қандай?",
+        "variants": [
+            {
+                "text": "Жасау жылдамдығы және қарапайымдылығы",
+                "is_correct": true
+            },
+            {
+                "text": "Логиканы реттеудің шексіз мүмкіндіктері",
+                "is_correct": false
+            },
+            {
+                "text": "Серверлік бөлікті толық бақылау",
+                "is_correct": false
+            },
+            {
+                "text": "Күрделі бағдарламалар жазу мүмкіндігі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "User flow дегеніміз не?",
+        "variants": [
+            {
+                "text": "Пайдаланушының сайттағы жолы",
+                "is_correct": true
+            },
+            {
+                "text": "Анимацияны басқаратын код",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-беттің тек мәтіндік сипаттамасы",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқордың жұмыс алгоритмі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code сайттарында пайдаланушы тәжірибесіне (UX) не әсер етеді?",
+        "variants": [
+            {
+                "text": "Оңай навигация және ыңғайлы интерфейс",
+                "is_correct": true
+            },
+            {
+                "text": "Тек сайттың жүктелу жылдамдығы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек түстер палитрасы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қолданылатын технологиялар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code жобаларында сыртқы API-ларды біріктіруге мүмкіндік беретін сервис қандай?",
+        "variants": [
+            {
+                "text": "Zapier",
+                "is_correct": true
+            },
+            {
+                "text": "GitHub",
+                "is_correct": false
+            },
+            {
+                "text": "Google Docs",
+                "is_correct": false
+            },
+            {
+                "text": "Blender",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Дайын сайтты қалай тестілеуге болады?",
+        "variants": [
+            {
+                "text": "Кіріктірілген алдын ала қарау құралдары арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек интернетке жарияланғаннан кейін",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалау кодын жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "HTML файлдарын қолмен өңдеу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларындағы дерекқор дегеніміз не?",
+        "variants": [
+            {
+                "text": "Бағдарламалаусыз басқарылатын құрылымдық деректер қоймасы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек Excel файлдары, сайтқа жүктелген мәліметтер",
+                "is_correct": false
+            },
+            {
+                "text": "HTML файлы, мәтін мен суреттерді қамтитын құжат",
+                "is_correct": false
+            },
+            {
+                "text": "Сервердегі құжаттар сақталған қалталар жиынтығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларында дерекқорды қалай жасауға болады?",
+        "variants": [
+            {
+                "text": "Конструктордың кіріктірілген құралдарын пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "SQL сұраныстарын қолмен жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйенің терминалы арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек сыртқы сервистер арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code шешімдерінде дерекқорлармен жұмыс істеуге арналған сервис қайсысы?",
+        "variants": [
+            {
+                "text": "Airtable",
+                "is_correct": true
+            },
+            {
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Notepad++",
+                "is_correct": false
+            },
+            {
+                "text": "Blender",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларында интерфейсті деректермен қалай байланыстыруға болады?",
+        "variants": [
+            {
+                "text": "Динамикалық элементтер мен деректер байланысын пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек контентті қолмен енгізу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалау тілдерін қолдану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "HTML кодын өңдеу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code дерекқорларында қандай деректер түрлері сақтала алады?",
+        "variants": [
+            {
+                "text": "Мәтін, сандар, суреттер, сілтемелер",
+                "is_correct": true
+            },
+            {
+                "text": "Тек мәтін",
+                "is_correct": false
+            },
+            {
+                "text": "Тек суреттер",
+                "is_correct": false
+            },
+            {
+                "text": "Тек файлдар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында деректерді қалай жаңартуға болады?",
+        "variants": [
+            {
+                "text": "Кіріктірілген дерекқор редакторы арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Командалық жолды пайдалану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Python тілінде код жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек экспорттап, қайта импорттау арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code дерекқорларында деректерді сүзгілеу (фильтрация) дегеніміз не?",
+        "variants": [
+            {
+                "text": "Белгілі бір критерийлер бойынша жазбаларды таңдау",
+                "is_correct": true
+            },
+            {
+                "text": "Қажетсіз деректерді автоматты түрде жою",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді жаңа базаға көшіру",
+                "is_correct": false
+            },
+            {
+                "text": "Жаңа кестелер құру процесі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Дерекқордан ақпаратты қалай іздеуге болады?",
+        "variants": [
+            {
+                "text": "Кіріктірілген іздеу және сүзгілерді пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қолмен жазбаларды қарап шығу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "SQL сұраныстарын пайдалану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Бастапқы кодты өңдеу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Деректерді көрсету үшін қандай интерфейс элементі жиі қолданылады?",
+        "variants": [
+            {
+                "text": "Кесте немесе тізім",
+                "is_correct": true
+            },
+            {
+                "text": "Бейне ойнатқыш",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды жүктеу формасы",
+                "is_correct": false
+            },
+            {
+                "text": "Графикалық редактор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Деректер базасындағы өзгерістер сайтта автоматты түрде қалай жаңартылады?",
+        "variants": [
+            {
+                "text": "Деректерді динамикалық байланыстыру арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Бетті қолмен қайта жүктеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "HTML кодын өңдеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек жазбаларды жойып, қайта қосу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code дерекқорларында деректерді қорғау қалай жүзеге асады?",
+        "variants": [
+            {
+                "text": "Қол жетімділікті басқару және рұқсаттарды орнату арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек антивирустық бағдарламалар арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді ZIP архивіне сығу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланғаннан кейін барлық деректерді жою арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code дерекқорына деректерді қалай импорттауға болады?",
+        "variants": [
+            {
+                "text": "CSV немесе Excel файлдарын жүктеу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қолмен енгізу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "JavaScript тілінде код жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "MP3 файлдарын пайдалану арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформалары дерекқорлармен қандай мүмкіндіктерді ұсынады?",
+        "variants": [
+            {
+                "text": "Деректерді қосу, өңдеу, жою, сүзгілеу",
+                "is_correct": true
+            },
+            {
+                "text": "Тек деректерді қарау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек деректерді экспорттау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек жаңа кестелер құру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code дерекқорын басқа сервиспен қалай біріктіруге болады?",
+        "variants": [
+            {
+                "text": "API және автоматтандыру құралдарын (Zapier, Make) пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек деректерді қолмен көшіру арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Excel файлдарын өңдеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректер базасын флешкаға жүктеу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларында дерекқордың резервтік көшірмесін қалай жасауға болады?",
+        "variants": [
+            {
+                "text": "Деректерді экспорттап, көшірмелерін сақтау арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Дерекқор жазбаларының скриншоттарын жасау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорды сыртқы қатты дискіге қолмен көшіру арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Жазбаларды қайталап қосу үшін бағдарлама жазу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларында API дегеніміз не?",
+        "variants": [
+            {
+                "text": "Бағдарламалаусыз сыртқы сервистермен әрекеттесу интерфейсі",
+                "is_correct": true
+            },
+            {
+                "text": "Арнайы бағдарламалау тілі",
+                "is_correct": false
+            },
+            {
+                "text": "Файлдарды сақтау жүйесі",
+                "is_correct": false
+            },
+            {
+                "text": "Код жазуға арналған редактор",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кодсыз әртүрлі платформаларды біріктіруге мүмкіндік беретін сервис қайсысы?",
+        "variants": [
+            {
+                "text": "Zapier",
+                "is_correct": true
+            },
+            {
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "SQL Server",
+                "is_correct": false
+            },
+            {
+                "text": "AutoCAD",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасына сыртқы сервисті қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "API және кіріктірілген интеграциялар арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалау көмегімен",
+                "is_correct": false
+            },
+            {
+                "text": "HTML кодын өңдеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді тек қолмен қосу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API арқылы аутентификация жасау үшін қандай кілт қолданылады?",
+        "variants": [
+            {
+                "text": "API Key",
+                "is_correct": true
+            },
+            {
+                "text": "HTML Token",
+                "is_correct": false
+            },
+            {
+                "text": "CSS ID",
+                "is_correct": false
+            },
+            {
+                "text": "Data Connector",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API арқылы деректерді жіберу әдістері қандай?",
+        "variants": [
+            {
+                "text": "GET, POST, PUT, DELETE",
+                "is_correct": true
+            },
+            {
+                "text": "SEND, RECEIVE, UPDATE, REMOVE",
+                "is_correct": false
+            },
+            {
+                "text": "OPEN, CLOSE, EDIT, SAVE",
+                "is_correct": false
+            },
+            {
+                "text": "LOAD, SAVE, PRINT, DELETE",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API жұмысын интеграция алдында қалай тексеруге болады?",
+        "variants": [
+            {
+                "text": "Postman немесе кіріктірілген API тестерлерін қолдану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек серверге орналастырғаннан кейін",
+                "is_correct": false
+            },
+            {
+                "text": "Python кодын іске қосу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "API-ді браузерде ашу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code дамуда API қолданудың қандай артықшылығы бар?",
+        "variants": [
+            {
+                "text": "Код жазбай-ақ сыртқы сервистермен интеграция жасауға мүмкіндік береді",
+                "is_correct": true
+            },
+            {
+                "text": "Бағдарламалау тілдерін білуді талап етеді",
+                "is_correct": false
+            },
+            {
+                "text": "No-code шешімдерінде API қолдануға болмайды",
+                "is_correct": false
+            },
+            {
+                "text": "API тек жергілікті серверлерде жұмыс істейді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API контекстінде Webhook дегеніміз не?",
+        "variants": [
+            {
+                "text": "Деректерді нақты уақытта автоматты түрде алу механизмі",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді бұлтта сақтау әдісі",
+                "is_correct": false
+            },
+            {
+                "text": "Сервис туралы ақпарат беретін веб-бет",
+                "is_correct": false
+            },
+            {
+                "text": "API көрсету үшін қолданылатын виджет",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API арқылы ақпарат беру үшін ең жиі қолданылатын дерек форматы қандай?",
+        "variants": [
+            {
+                "text": "JSON",
+                "is_correct": true
+            },
+            {
+                "text": "PDF",
+                "is_correct": false
+            },
+            {
+                "text": "DOCX",
+                "is_correct": false
+            },
+            {
+                "text": "MP3",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code сайтқа әлеуметтік желілерді қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "API немесе дайын интеграциялар арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек HTML кодын жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Жаңа дерекқор жасау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "DNS жазбаларын орнату арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшасынан сыртқы сервиске деректерді қалай жіберуге болады?",
+        "variants": [
+            {
+                "text": "API сұраныстарын пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "ZIP архивтері арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "SMS хабарламалар арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек офлайн режимде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API арқылы процестерді автоматтандыру қандай артықшылық береді?",
+        "variants": [
+            {
+                "text": "Қолмен жасалатын жұмысты азайтып, тапсырмаларды тезірек орындауға көмектеседі",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі код жазуды талап етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек компьютерлік қосымшаларда жұмыс істейді",
+                "is_correct": false
+            },
+            {
+                "text": "Бұлттық сервистермен жұмыс істей алмайды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code шешімдерінде интеграциялар қандай рөл атқарады?",
+        "variants": [
+            {
+                "text": "Әртүрлі сервистерді бір экожүйеге біріктіреді",
+                "is_correct": true
+            },
+            {
+                "text": "Платформаның мүмкіндіктерін шектейді",
+                "is_correct": false
+            },
+            {
+                "text": "Серверлік дерекқорларды алмастырады",
+                "is_correct": false
+            },
+            {
+                "text": "Тек мобильді қосымшаларда қолданылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "API арқылы деректерді автоматты түрде жаңартуды қалай орнатуға болады?",
+        "variants": [
+            {
+                "text": "Webhooks немесе таймерлерді қолдану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Бетті қолмен қайта жүктеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Excel файлдарын өңдеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Жаңа деректерді қолмен енгізу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасы қажетті сервиспен интеграция жасай алатынын қалай білуге болады?",
+        "variants": [
+            {
+                "text": "Платформа құжаттамасын немесе интеграциялар тізімін тексеру арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Нұсқаулықсыз сервиске қосылуға тырысу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек код жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Егер сервис ақылы болса, онда ол міндетті түрде қолданылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code мобильді әзірлеу платформалары дегеніміз не?",
+        "variants": [
+            {
+                "text": "Бағдарламалаусыз мобильді қосымшалар жасауға арналған құралдар",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаларды әзірлеуге арналған код редакторлары",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-әзірлеуге арналған фреймворктер",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қосымшаларды тестілеу сервистері",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа код жазбай мобильді қосымшалар жасауға арналған?",
+        "variants": [
+            {
+                "text": "Adalo",
+                "is_correct": true
+            },
+            {
+                "text": "Visual Studio",
+                "is_correct": false
+            },
+            {
+                "text": "Notepad++",
+                "is_correct": false
+            },
+            {
+                "text": "Blender",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларының басты артықшылығы қандай?",
+        "variants": [
+            {
+                "text": "Бағдарламалау тілін білмей-ақ қосымша жасауға мүмкіндік береді",
+                "is_correct": true
+            },
+            {
+                "text": "Тек iOS жүйесінде жұмыс істейді",
+                "is_correct": false
+            },
+            {
+                "text": "Java және Kotlin тілдерін терең білуді қажет етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ірі компаниялар үшін қолжетімді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай No-code платформа Google кестелеріне негізделген қарапайым қосымшалар жасау үшін ең қолайлы?",
+        "variants": [
+            {
+                "text": "Glide",
+                "is_correct": true
+            },
+            {
+                "text": "Unity",
+                "is_correct": false
+            },
+            {
+                "text": "Xcode",
+                "is_correct": false
+            },
+            {
+                "text": "Flutter",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Adalo платформасының ерекшелігі неде?",
+        "variants": [
+            {
+                "text": "Визуалды конструктор арқылы күрделі мобильді қосымшалар жасауға мүмкіндік береді",
+                "is_correct": true
+            },
+            {
+                "text": "Тек веб-қосымшалар үшін қолжетімді",
+                "is_correct": false
+            },
+            {
+                "text": "Міндетті түрде Python қолдануды талап етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ойын жасау үшін пайдаланылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа код жазбай-ақ қосымшаларды Google Play және App Store-ға жүктеуге мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Appy Pie",
+                "is_correct": true
+            },
+            {
+                "text": "WordPress",
+                "is_correct": false
+            },
+            {
+                "text": "Sketch",
+                "is_correct": false
+            },
+            {
+                "text": "Trello",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Adalo-да қосымша функционалын қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "Дайын компоненттер мен дерекқорларды пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек код жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Adobe Photoshop көмегімен",
+                "is_correct": false
+            },
+            {
+                "text": "Браузерге сыртқы плагиндер орнату арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Glide платформасының Adalo-ға қарағанда қандай артықшылығы бар?",
+        "variants": [
+            {
+                "text": "Google Sheets-пен оңай интеграциялау және жылдам іске қосу",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі мобильді ойындар жасау мүмкіндігі",
+                "is_correct": false
+            },
+            {
+                "text": "Нативті бағдарламалауды қолдайды",
+                "is_correct": false
+            },
+            {
+                "text": "Swift тілін білуді талап етеді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Glide платформасында деректерді сақтау үшін қандай формат қолданылады?",
+        "variants": [
+            {
+                "text": "Google Sheets",
+                "is_correct": true
+            },
+            {
+                "text": "JSON",
+                "is_correct": false
+            },
+            {
+                "text": "SQL",
+                "is_correct": false
+            },
+            {
+                "text": "XML",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында жасалған қосымшаны қалай тестілеуге болады?",
+        "variants": [
+            {
+                "text": "Орнатылған эмуляторды пайдалану немесе мобильді құрылғыда іске қосу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек App Store-да жарияланғаннан кейін",
+                "is_correct": false
+            },
+            {
+                "text": "Java компиляторы арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Кодты экспорттап, Xcode-да іске қосу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Appy Pie көмегімен жасалған мобильді қосымшаны қалай монетизациялауға болады?",
+        "variants": [
+            {
+                "text": "Ішкі сатып алулар мен жарнамалар арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек лицензия сату арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Сыртқы Python плагиндерін пайдалану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Appy Pie монетизацияны қолдамайды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа код жазбай push-хабарламалар қосуға мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Adalo",
+                "is_correct": true
+            },
+            {
+                "text": "Excel",
+                "is_correct": false
+            },
+            {
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Google Docs",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларының қандай кемшілігі бар?",
+        "variants": [
+            {
+                "text": "Нативті әзірлеумен салыстырғанда шектеулі икемділік",
+                "is_correct": true
+            },
+            {
+                "text": "C++ тілін терең білуді қажет етеді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ірі компанияларға қолжетімді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек Android құрылғыларын қолдайды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшаларында сыртқы API-лерді қосуға бола ма?",
+        "variants": [
+            {
+                "text": "Иә, кейбір платформалар API интеграциясын қолдайды",
+                "is_correct": true
+            },
+            {
+                "text": "Жоқ, бұл тек нативті қосымшаларда мүмкін",
+                "is_correct": false
+            },
+            {
+                "text": "Тек Python кодын қолдану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "API тек веб-қосымшаларда қолданылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жаңадан бастаушылар үшін мобильді қосымшалар жасауға ең оңай No-code платформа қайсысы?",
+        "variants": [
+            {
+                "text": "Glide",
+                "is_correct": true
+            },
+            {
+                "text": "Android Studio",
+                "is_correct": false
+            },
+            {
+                "text": "Swift Playground",
+                "is_correct": false
+            },
+            {
+                "text": "Firebase",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code мобильді қосымшалардағы компоненттер дегеніміз не?",
+        "variants": [
+            {
+                "text": "Интерфейс элементтері, мысалы, батырмалар, енгізу өрістері және суреттер",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданбаларға код жазуға арналған блоктар",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымшаның деректерін сақтайтын файлдар",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қосымшаның түстерін баптау параметрлері",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшасында экрандар арасындағы өтулерді қандай функция орындайды?",
+        "variants": [
+            {
+                "text": "Навигация",
+                "is_correct": true
+            },
+            {
+                "text": "Дизайн",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқор",
+                "is_correct": false
+            },
+            {
+                "text": "API құрастырушысы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында батырманы қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "Дайын элементтер кітапханасынан қажетті компонентті сүйреп апару арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "JavaScript кодын жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорда жаңа кесте жасау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Батырма суретін жүктеп, қолдану арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушы мәтін енгізуі үшін қандай компонент қолданылады?",
+        "variants": [
+            {
+                "text": "Енгізу өрісі (Input field)",
+                "is_correct": true
+            },
+            {
+                "text": "Батырма (Button)",
+                "is_correct": false
+            },
+            {
+                "text": "Сурет (Image)",
+                "is_correct": false
+            },
+            {
+                "text": "Карта (Map)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Элементтер тізімін көрсету үшін ең жиі қолданылатын құрылым қандай?",
+        "variants": [
+            {
+                "text": "Қайталанатын тізім (Repeating list)",
+                "is_correct": true
+            },
+            {
+                "text": "Ашылмалы мәзір (Dropdown)",
+                "is_correct": false
+            },
+            {
+                "text": "Диаграмма (Chart)",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтін енгізу өрісі (Text field)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тізімді дерекқормен қалай байланыстыруға болады?",
+        "variants": [
+            {
+                "text": "Тізімді no-code платформасындағы дерекқор кестесіне қосу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "SQL сұранысын қолмен жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "API-ді қолмен баптау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек статикалық деректерді пайдалану арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушыға тізімнен бір ғана нұсқаны таңдауға мүмкіндік беретін компонент қайсы?",
+        "variants": [
+            {
+                "text": "Радио батырма (Radio Button)",
+                "is_correct": true
+            },
+            {
+                "text": "Чекбокс (Checkbox)",
+                "is_correct": false
+            },
+            {
+                "text": "Енгізу өрісі (Input field)",
+                "is_correct": false
+            },
+            {
+                "text": "Батырма (Button)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тізімдерді сақтау үшін қандай дерек түрі жиі қолданылады?",
+        "variants": [
+            {
+                "text": "Кесте (Database Table)",
+                "is_correct": true
+            },
+            {
+                "text": "Сурет (Image)",
+                "is_correct": false
+            },
+            {
+                "text": "Видео (Video)",
+                "is_correct": false
+            },
+            {
+                "text": "CSS файлы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қолданбада ыңғайлы навигацияны қалай ұйымдастыруға болады?",
+        "variants": [
+            {
+                "text": "Қойындыларды, батырмаларды және бүйірлік мәзірді пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Барлық элементтерді бір экранға орналастыру арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушыдан команданы енгізуді талап ету арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек жылжыту (swipe) әрекеттерін қолдану арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушы деректерді формадан дерекқорға қалай жібере алады?",
+        "variants": [
+            {
+                "text": "\"Жіберу\" батырмасын басу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді қолмен админ панельге енгізу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "JavaScript кодын пайдалану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді электрондық пошта арқылы әзірлеушіге жіберу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа no-code көмегімен формалар мен тізімдермен мобильді қосымшалар жасауға мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "Adalo",
+                "is_correct": true
+            },
+            {
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Blender",
+                "is_correct": false
+            },
+            {
+                "text": "Excel",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Форманы тек белгілі бір пайдаланушыларға қалай көрсетуге болады?",
+        "variants": [
+            {
+                "text": "Пайдаланушы деректеріне негізделген көрсету шарттарын баптау арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Python кодын жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Форманы бөлек веб-сайтқа жариялау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "CSS көмегімен форманы жасыру арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Егер форма дерекқормен байланыстырылмаса, не болады?",
+        "variants": [
+            {
+                "text": "Пайдаланушы енгізген деректер сақталмайды",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданба жұмысын тоқтатады",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушы деректерді енгізе алады, бірақ олар өшіріледі",
+                "is_correct": false
+            },
+            {
+                "text": "Форма автоматты түрде кездейсоқ дерекқормен байланысады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қолданбадағы тізімді автоматты түрде жаңартуды қалай баптауға болады?",
+        "variants": [
+            {
+                "text": "Тізім параметрлерінде динамикалық жаңартуды қосу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Әкімші панелі арқылы қолмен жаңарту",
+                "is_correct": false
+            },
+            {
+                "text": "Браузер кэшін тазалау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек статикалық контентті пайдалану",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тізімдерде деректерді сүзуге бола ма?",
+        "variants": [
+            {
+                "text": "Иә, кірістірілген сүзу құралдары арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Жоқ, барлық деректер өзгеріссіз көрсетіледі",
+                "is_correct": false
+            },
+            {
+                "text": "Тек сыртқы API арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Сүзу тек веб-қосымшаларда қолжетімді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Мобильді қосымшадағы дерекқор дегеніміз не?",
+        "variants": [
+            {
+                "text": "Қосымшаның жұмысына пайдаланылатын ақпарат сақтау орны",
+                "is_correct": true
+            },
+            {
+                "text": "Алгоритм жазуға арналған код құрылымы",
+                "is_correct": false
+            },
+            {
+                "text": "Жүйенің конфигурация файлы",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушының графикалық интерфейсі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшасында деректерді интерфейс элементтерімен қалай байланыстыруға болады?",
+        "variants": [
+            {
+                "text": "Деректерді байланыстыруды (Data Binding) пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "SQL сұранысын қолмен жазу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Дизайндағы қаріп параметрлерін баптау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді қосымшаның кодының ішіне енгізу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code мобильді қосымшаларда жиі қолданылатын деректер қоймасы қандай?",
+        "variants": [
+            {
+                "text": "Дерекқор кестелері",
+                "is_correct": true
+            },
+            {
+                "text": "Мәтіндік файлдар",
+                "is_correct": false
+            },
+            {
+                "text": "HTML беттері",
+                "is_correct": false
+            },
+            {
+                "text": "ZIP архивтері",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Мобильді қосымшадағы дерекқордың негізгі мақсаты қандай?",
+        "variants": [
+            {
+                "text": "Пайдаланушы деректерін сақтау және өңдеу",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаның дизайнын жақсарту",
+                "is_correct": false
+            },
+            {
+                "text": "Анимациялар жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалау кодын генерациялау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Дерекқорға жаңа жазбаны қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "Енгізу формасы мен \"Сақтау\" батырмасын пайдалану",
+                "is_correct": true
+            },
+            {
+                "text": "Python скриптін жазу",
+                "is_correct": false
+            },
+            {
+                "text": "CSS файлын өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымшаны қайта іске қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сандарды сақтау үшін қандай дерек түрі жиі қолданылады?",
+        "variants": [
+            {
+                "text": "Сандық тип (Number)",
+                "is_correct": true
+            },
+            {
+                "text": "Мәтіндік тип (Text)",
+                "is_correct": false
+            },
+            {
+                "text": "Логикалық тип (Boolean)",
+                "is_correct": false
+            },
+            {
+                "text": "Сурет (Image)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Мобильді қосымшада деректерді қалай жаңартуға болады?",
+        "variants": [
+            {
+                "text": "Деректерді автоматты түрде жаңарту функциясын пайдалану",
+                "is_correct": true
+            },
+            {
+                "text": "Телефонды қайта жүктеу",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымшаның кодын өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Тек тақырыпты өзгерту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тізімдегі деректерді сүзу үшін қандай құрал қолданылады?",
+        "variants": [
+            {
+                "text": "Сүзгі (Filter)",
+                "is_correct": true
+            },
+            {
+                "text": "Батырма (Button)",
+                "is_correct": false
+            },
+            {
+                "text": "Форма (Form)",
+                "is_correct": false
+            },
+            {
+                "text": "Сілтеме (Link)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Егер дерекқор кестесін жойсаңыз, не болады?",
+        "variants": [
+            {
+                "text": "Оның ішіндегі барлық деректер жойылады",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаның интерфейсі өзгереді",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымша автоматты түрде жаңа кесте жасайды",
+                "is_correct": false
+            },
+            {
+                "text": "Деректер басқа файлға көшіріледі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушы тек өз деректерін ғана көретіндей етіп қалай баптауға болады?",
+        "variants": [
+            {
+                "text": "Пайдаланушының ID-н негізге ала отырып, деректерді сүзу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаның түстер схемасын өзгерту арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Қажетсіз жазбаларды қолмен өшіру арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушыларға деректер енгізуге тыйым салу арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сыртқы дерекқорды мобильді қосымшаға қосуға бола ма?",
+        "variants": [
+            {
+                "text": "Иә, API немесе веб-қызметтерді пайдалану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Жоқ, деректер тек қосымша ішінде сақталуы керек",
+                "is_correct": false
+            },
+            {
+                "text": "Тек бағдарламалау тілін қолданса ғана мүмкін",
+                "is_correct": false
+            },
+            {
+                "text": "Тек root рұқсаты бар құрылғыларда ғана мүмкін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Дерекқорда суреттерді сақтау үшін қандай дерек түрі қолайлы?",
+        "variants": [
+            {
+                "text": "\"Сурет\" (Image) өрісі",
+                "is_correct": true
+            },
+            {
+                "text": "Сандық өріс (Number)",
+                "is_correct": false
+            },
+            {
+                "text": "Логикалық өріс (Boolean)",
+                "is_correct": false
+            },
+            {
+                "text": "Мәтіндік өріс (Text)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қосымшадағы деректердің автоматты түрде жаңартылуын қалай қамтамасыз етуге болады?",
+        "variants": [
+            {
+                "text": "Динамикалық деректер жаңартуын қосу",
+                "is_correct": true
+            },
+            {
+                "text": "Қолданбаны әр жолы қайта іске қосу",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушыдан жаңартуды сұрау",
+                "is_correct": false
+            },
+            {
+                "text": "Жаңа аккаунт жасау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Дерекқордағы екі кестені қалай байланыстыруға болады?",
+        "variants": [
+            {
+                "text": "Бірегей идентификатор (ID) көмегімен",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаның түс схемасын өзгерту арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбаның конфигурация файлын пайдалану арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Деректерді резервтік көшіру арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Мобильді қосымшада деректерді көрсету үшін қандай компонент қолданылады?",
+        "variants": [
+            {
+                "text": "Тізім (List)",
+                "is_correct": true
+            },
+            {
+                "text": "Батырма (Button)",
+                "is_correct": false
+            },
+            {
+                "text": "Енгізу өрісі (Input Field)",
+                "is_correct": false
+            },
+            {
+                "text": "Сурет (Image)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code чат-бот платформасы дегеніміз не?",
+        "variants": [
+            {
+                "text": "Бағдарламалаусыз чат-боттар жасауға арналған құрал",
+                "is_correct": true
+            },
+            {
+                "text": "Пайдаланушылармен тікелей байланыс жасауға арналған бағдарлама",
+                "is_correct": false
+            },
+            {
+                "text": "Чат-бот коды жазылатын фреймворк",
+                "is_correct": false
+            },
+            {
+                "text": "Хабарламаларды автоматты түрде аударатын сервис",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай сервис no-code чат-бот платформасына жатады?",
+        "variants": [
+            {
+                "text": "ManyChat",
+                "is_correct": true
+            },
+            {
+                "text": "Python",
+                "is_correct": false
+            },
+            {
+                "text": "MySQL",
+                "is_correct": false
+            },
+            {
+                "text": "WordPress",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code чат-бот платформаларының негізгі артықшылығы қандай?",
+        "variants": [
+            {
+                "text": "Бағдарламалау тілдерін білмей-ақ чат-бот жасауға болады",
+                "is_correct": true
+            },
+            {
+                "text": "Тек дауыстық көмекшілер жасауға мүмкіндік береді",
+                "is_correct": false
+            },
+            {
+                "text": "Міндетті түрде бағдарламалау дағдылары қажет",
+                "is_correct": false
+            },
+            {
+                "text": "Тек веб-сайттарда ғана қолданылады",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай платформа Facebook Messenger үшін чат-бот жасауға арналған?",
+        "variants": [
+            {
+                "text": "Chatfuel",
+                "is_correct": true
+            },
+            {
+                "text": "Google Sheets",
+                "is_correct": false
+            },
+            {
+                "text": "Firebase",
+                "is_correct": false
+            },
+            {
+                "text": "WooCommerce",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттарды жасанды интеллектпен біріктіру үшін жиі қолданылатын платформа қайсы?",
+        "variants": [
+            {
+                "text": "Dialogflow",
+                "is_correct": true
+            },
+            {
+                "text": "Excel",
+                "is_correct": false
+            },
+            {
+                "text": "Notion",
+                "is_correct": false
+            },
+            {
+                "text": "Shopify",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ManyChat қандай мүмкіндіктерді ұсынады?",
+        "variants": [
+            {
+                "text": "Мессенджерлердегі сөйлесуді автоматтандыру",
+                "is_correct": true
+            },
+            {
+                "text": "Суреттерді өңдеу",
+                "is_correct": false
+            },
+            {
+                "text": "Видео контент жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорларды басқару",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жасалған чат-ботты қалай тестілеуге болады?",
+        "variants": [
+            {
+                "text": "Платформада тесттік диалогты іске қосу",
+                "is_correct": true
+            },
+            {
+                "text": "JavaScript тілінде скрипт жазу",
+                "is_correct": false
+            },
+            {
+                "text": "Тақырып дизайнын өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Серверге кіру рұқсатын баптау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттарды сыртқы сервистермен біріктіру үшін жиі қолданылатын протокол қандай?",
+        "variants": [
+            {
+                "text": "API",
+                "is_correct": true
+            },
+            {
+                "text": "HTML",
+                "is_correct": false
+            },
+            {
+                "text": "FTP",
+                "is_correct": false
+            },
+            {
+                "text": "DNS",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай сервис WhatsApp үшін чат-бот жасауға мүмкіндік береді?",
+        "variants": [
+            {
+                "text": "ManyChat",
+                "is_correct": true
+            },
+            {
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Figma",
+                "is_correct": false
+            },
+            {
+                "text": "SQL Server",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Dialogflow платформасы не үшін қолданылады?",
+        "variants": [
+            {
+                "text": "Табиғи тілді өңдеп, пайдаланушы сұраныстарын түсіну үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Жарнамалық баннерлер жасау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Мобильді қосымшалар бағдарламалау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Веб-сайттағы контентті басқару үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-ботта қандай элементті баптауға болады?",
+        "variants": [
+            {
+                "text": "Әңгімелесу сценарийі",
+                "is_correct": true
+            },
+            {
+                "text": "Процессор түсі",
+                "is_correct": false
+            },
+            {
+                "text": "Экран ажыратымдылығы",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйенің негізгі коды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Chatfuel мен Dialogflow айырмашылығы неде?",
+        "variants": [
+            {
+                "text": "Chatfuel Facebook Messenger үшін жасалған, ал Dialogflow табиғи тілді өңдейді",
+                "is_correct": true
+            },
+            {
+                "text": "Chatfuel тек дауыстық командалармен жұмыс істейді",
+                "is_correct": false
+            },
+            {
+                "text": "Dialogflow API қолдамайды",
+                "is_correct": false
+            },
+            {
+                "text": "Chatfuel міндетті түрде бағдарламалау дағдыларын талап етеді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Telegram үшін чат-бот жасауға қандай платформалар қолданылады?",
+        "variants": [
+            {
+                "text": "ManyChat және Dialogflow",
+                "is_correct": true
+            },
+            {
+                "text": "Excel және Google Docs",
+                "is_correct": false
+            },
+            {
+                "text": "Canva және Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Windows Media Player",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-ботты CRM жүйелерімен біріктіруге бола ма?",
+        "variants": [
+            {
+                "text": "Иә, API немесе кіріктірілген интеграция модульдері арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Жоқ, чат-боттар тек мессенджерлерде ғана жұмыс істейді",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ақылы жазылым болса ғана мүмкін",
+                "is_correct": false
+            },
+            {
+                "text": "Тек SQL сұраныстарын қолдану арқылы мүмкін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттарда пайдаланушылардан ақпарат жинау үшін қандай компонент қолданылады?",
+        "variants": [
+            {
+                "text": "Деректерді енгізу формасы",
+                "is_correct": true
+            },
+            {
+                "text": "Графикалық редактор",
+                "is_correct": false
+            },
+            {
+                "text": "Видео ойнатқыш",
+                "is_correct": false
+            },
+            {
+                "text": "Музыкалық ойнатқыш",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-бот жұмысының негізі не болып табылады?",
+        "variants": [
+            {
+                "text": "Диалог сценарийі",
+                "is_correct": true
+            },
+            {
+                "text": "HTML-код",
+                "is_correct": false
+            },
+            {
+                "text": "SQL-сұраныс",
+                "is_correct": false
+            },
+            {
+                "text": "Анимация",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушыға хабарламалар мен әрекеттерді көрсететін чат-боттың жеке бөліктері қалай аталады?",
+        "variants": [
+            {
+                "text": "Блоктар",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-беттер",
+                "is_correct": false
+            },
+            {
+                "text": "Кестелер",
+                "is_correct": false
+            },
+            {
+                "text": "Фильтрлер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушының хабарламасына автоматты түрде жауап беру үшін не жасау керек?",
+        "variants": [
+            {
+                "text": "Триггер орнатып, оны жауап блогымен байланыстыру",
+                "is_correct": true
+            },
+            {
+                "text": "Дерекқорға SQL сұранысын жазу",
+                "is_correct": false
+            },
+            {
+                "text": "Чат-боттың CSS стильдерін өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Фон мен түймелердің түсін баптау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-ботта пайдаланушыға бірнеше жауап нұсқаларын ұсынатын элемент қалай аталады?",
+        "variants": [
+            {
+                "text": "Түймелер",
+                "is_correct": true
+            },
+            {
+                "text": "Сілтемелер",
+                "is_correct": false
+            },
+            {
+                "text": "Суреттер",
+                "is_correct": false
+            },
+            {
+                "text": "Бейнероликтер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушыны бір блоктан екіншісіне қалай өткізуге болады?",
+        "variants": [
+            {
+                "text": "Блоктар арасындағы байланыс орнату",
+                "is_correct": true
+            },
+            {
+                "text": "Жаңа чат-бот жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Серверді қайта жүктеу",
+                "is_correct": false
+            },
+            {
+                "text": "Интерфейс тақырыбын өзгерту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттың жұмысын талдауға қандай құрал көмектеседі?",
+        "variants": [
+            {
+                "text": "Хабарламалар журналы мен аналитика",
+                "is_correct": true
+            },
+            {
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "text": "Excel кестесі",
+                "is_correct": false
+            },
+            {
+                "text": "Бейне шолу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттың дұрыс жұмыс істейтінін қалай тексеруге болады?",
+        "variants": [
+            {
+                "text": "Тесттік сценарийді іске қосу",
+                "is_correct": true
+            },
+            {
+                "text": "Компьютерді қайта жүктеу",
+                "is_correct": false
+            },
+            {
+                "text": "Техникалық қолдау қызметіне хат жазу",
+                "is_correct": false
+            },
+            {
+                "text": "Хабарламалардың қаріпін өзгерту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттағы триггер дегеніміз не?",
+        "variants": [
+            {
+                "text": "Белгілі бір шарт орындалғанда боттың жауап беруі",
+                "is_correct": true
+            },
+            {
+                "text": "Әкімшілерге арналған арнайы команда",
+                "is_correct": false
+            },
+            {
+                "text": "Дизайн баптаулары бар файл",
+                "is_correct": false
+            },
+            {
+                "text": "Лицензиялық келісім",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-бот пен сыртқы сервистер арасында ақпарат алмасу үшін көбіне қандай дерек форматы қолданылады?",
+        "variants": [
+            {
+                "text": "JSON",
+                "is_correct": true
+            },
+            {
+                "text": "TXT",
+                "is_correct": false
+            },
+            {
+                "text": "CSV",
+                "is_correct": false
+            },
+            {
+                "text": "MP4",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушы чат-ботқа өз байланыс мәліметтерін жіберуі үшін не істеу керек?",
+        "variants": [
+            {
+                "text": "\"Байланысты жіберу\" түймесі бар арнайы блок қосу",
+                "is_correct": true
+            },
+            {
+                "text": "Пайдаланушыға жеке хабарлама жазу",
+                "is_correct": false
+            },
+            {
+                "text": "Интерфейстің түсін өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушының файлдарына рұқсат ашу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-бот пайдаланушылардан деректерді қалай жинай алады?",
+        "variants": [
+            {
+                "text": "Ақпарат сұрайтын енгізу формалары немесе түймелер арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "SQL-сұраныстар арқылы пайдаланушының қатысуынсыз",
+                "is_correct": false
+            },
+            {
+                "text": "Автоматты хабарламалар жіберу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек дауыстық командалар арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттағы айнымалы (переменная) дегеніміз не?",
+        "variants": [
+            {
+                "text": "Пайдаланушы деректерін сақтауға арналған контейнер",
+                "is_correct": true
+            },
+            {
+                "text": "Чаттағы арнайы түйме түрі",
+                "is_correct": false
+            },
+            {
+                "text": "Боттың дизайнын жасау құралы",
+                "is_correct": false
+            },
+            {
+                "text": "Ботты іске қосуға арналған кодтық команда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-бот пайдаланушы туралы ақпаратты қалай сақтай алады?",
+        "variants": [
+            {
+                "text": "Айнымалыларға немесе дерекқорға жазу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Хабарламаларды әкімшінің e-mail поштасына жіберу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Cookie файлдарын орнату арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек кіріктірілген мессенджерлер арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жиналған деректерді чат-ботта қалай пайдалануға болады?",
+        "variants": [
+            {
+                "text": "Айнымалыларды бот жауаптарында қолдану арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек жасырын режимде сақтау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек әкімшілерге беру",
+                "is_correct": false
+            },
+            {
+                "text": "Тек хабарландыру жіберу үшін пайдалану",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-бот сыртқы дерекқормен қалай біріктіріледі?",
+        "variants": [
+            {
+                "text": "API-сұраныстар арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Мәтіндік файлды жүктеу арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қолмен жаңарту арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Кіріктірілген дизайн тақырыптары арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушылар жіберген деректерді қалай сүзуге болады?",
+        "variants": [
+            {
+                "text": "Бот платформасындағы шарттар мен сүзгілерді пайдалану",
+                "is_correct": true
+            },
+            {
+                "text": "HTML кодын өзгерту арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Жаңа түймелер орнату арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Тек әкімші қолжетімділігі арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушының жауаптарын есте сақтап, кейін пайдалану үшін не істеу керек?",
+        "variants": [
+            {
+                "text": "Оларды айнымалыға сақтау",
+                "is_correct": true
+            },
+            {
+                "text": "Жауаптарды басқа чатқа жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Тек бір хабарламада пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "PDF форматында сақтау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-ботты дерекқорлармен біріктіру үшін жиі қолданылатын дерек форматы қандай?",
+        "variants": [
+            {
+                "text": "JSON",
+                "is_correct": true
+            },
+            {
+                "text": "MP3",
+                "is_correct": false
+            },
+            {
+                "text": "PNG",
+                "is_correct": false
+            },
+            {
+                "text": "DOCX",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Чат-боттан Google Sheets-ке деректерді қалай жіберуге болады?",
+        "variants": [
+            {
+                "text": "API-интеграция немесе вебхуктер арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Деректерді қолмен көшіру",
+                "is_correct": false
+            },
+            {
+                "text": "Excel формулаларын пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "Тек e-mail арқылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Пайдаланушыға автоматты түрде жекелендірілген хабарламалар жіберу үшін не істеу керек?",
+        "variants": [
+            {
+                "text": "Сақталған айнымалыларды оның деректерімен бірге пайдалану",
+                "is_correct": true
+            },
+            {
+                "text": "Әр пайдаланушы үшін жеке сценарий жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушыдан әр жолы деректерді қайта енгізуді сұрау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек стандартты үлгілерді пайдалану",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасы онлайн-дүкен жасау үшін қандай негізгі мүмкіндіктерді ұсынады?",
+        "variants": [
+            {
+                "text": "Тауарларды қосу, тапсырыстарды басқару және төлемдерді қабылдау",
+                "is_correct": true
+            },
+            {
+                "text": "Веб-нұсқасыз тек мобильді қосымша жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек тапсырыстарды рәсімдеу, бірақ оларды өңдеу мүмкіндігі жоқ",
+                "is_correct": false
+            },
+            {
+                "text": "Тек дизайн баптаулары, сатуды басқарусыз",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасындағы тауарлар каталогы дегеніміз не?",
+        "variants": [
+            {
+                "text": "Дүкендегі тауарларды сақтау және басқару бөлімі",
+                "is_correct": true
+            },
+            {
+                "text": "Клиенттердің тапсырыстарын сақтау орны",
+                "is_correct": false
+            },
+            {
+                "text": "Клиенттердің байланыс деректері бар бөлім",
+                "is_correct": false
+            },
+            {
+                "text": "Сату туралы есептері бар файл",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында жасалған онлайн-дүкенде төлемді қалай қабылдауға болады?",
+        "variants": [
+            {
+                "text": "Төлем жүйелерін (Stripe, PayPal және т.б.) қосу арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қолма-қол ақшамен төлеу",
+                "is_correct": false
+            },
+            {
+                "text": "Тек мессенджерлер арқылы төлеу",
+                "is_correct": false
+            },
+            {
+                "text": "Төлем шоттарын қолмен жіберу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Клиенттерге тапсырысты рәсімдеуге дейін тауарларды қосуға мүмкіндік беретін элемент қалай аталады?",
+        "variants": [
+            {
+                "text": "Себет",
+                "is_correct": true
+            },
+            {
+                "text": "Кері байланыс формасы",
+                "is_correct": false
+            },
+            {
+                "text": "\"Менеджерге қоңырау шалу\" түймесі",
+                "is_correct": false
+            },
+            {
+                "text": "Чат-бот",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында тапсырысты басқару дегеніміз не?",
+        "variants": [
+            {
+                "text": "Тапсырыстарды қадағалау, олардың күйін өзгерту және өңдеу",
+                "is_correct": true
+            },
+            {
+                "text": "Тауар карточкаларының дизайнын өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Жарнамалық хабарландырулар жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Жаңа төлем жүйелерін қосу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Клиенттерге тапсырыстар туралы автоматты хабарламаларды қалай жіберуге болады?",
+        "variants": [
+            {
+                "text": "Автоматты email немесе SMS хабарландыруларын баптау",
+                "is_correct": true
+            },
+            {
+                "text": "Клиенттерден тапсырыс күйін қолмен сұратуды сұрау",
+                "is_correct": false
+            },
+            {
+                "text": "Әр тапсырыс үшін жеке бет жасау",
+                "is_correct": false
+            },
+            {
+                "text": "Тек push-хабарламаларды пайдалану",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында жаңа тауарды қалай қосуға болады?",
+        "variants": [
+            {
+                "text": "Кіріктірілген редактор арқылы сипаттаманы, бағасын және суретін толтыру",
+                "is_correct": true
+            },
+            {
+                "text": "Беттің HTML кодын қолмен өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Платформа қолдау қызметіне сұраныс жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Тауарлар тізімін тек кесте арқылы жүктеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформалары сатылымдарды бақылауға қалай көмектеседі?",
+        "variants": [
+            {
+                "text": "Кіріктірілген аналитика және тапсырыстар туралы есептер",
+                "is_correct": true
+            },
+            {
+                "text": "Тек клиенттермен хат-хабар алмасу тарихын қарау",
+                "is_correct": false
+            },
+            {
+                "text": "Тауар суреттерін талдау",
+                "is_correct": false
+            },
+            {
+                "text": "Сатып алушылармен телефон арқылы сөйлесуді жазу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында онлайн-дүкенге қандай жеткізу әдістерін біріктіруге болады?",
+        "variants": [
+            {
+                "text": "Курьерлік қызметтер, пошта қызметтері және өзіндік алып кету",
+                "is_correct": true
+            },
+            {
+                "text": "Тек курьерлік жеткізу",
+                "is_correct": false
+            },
+            {
+                "text": "Тек өзіндік алып кету",
+                "is_correct": false
+            },
+            {
+                "text": "Жеткізу тек бір қала шегінде ғана қолжетімді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында жасалған онлайн-дүкенде пайдаланушы тәжірибесін қалай жақсартуға болады?",
+        "variants": [
+            {
+                "text": "Тауарларға арналған сүзгілерді, ыңғайлы навигацияны және жылдам төлем жүйесін қосу",
+                "is_correct": true
+            },
+            {
+                "text": "Дүкендегі тауар санын шектеу",
+                "is_correct": false
+            },
+            {
+                "text": "Төлем әдістерін азайту",
+                "is_correct": false
+            },
+            {
+                "text": "Дүкеннің байланыс ақпаратын жасыру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшасын тестілеу дегеніміз не?",
+        "variants": [
+            {
+                "text": "Функционал мен пайдаланушы интерфейсінің жұмысын тексеру",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаның кодын оңтайландыру үшін өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қосымшаның дизайнын тексеру",
+                "is_correct": false
+            },
+            {
+                "text": "Орналастыру алдында дерекқорды өңдеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшаларының пайдаланушы интерфейсін тестілеу үшін қандай құрал жиі қолданылады?",
+        "variants": [
+            {
+                "text": "No-code платформаларындағы алдын ала қарау (preview) функциялары",
+                "is_correct": true
+            },
+            {
+                "text": "Тек Python-да автоматтандырылған тесттер",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымшаны App Store-ға жіберу арқылы тексеру",
+                "is_correct": false
+            },
+            {
+                "text": "SQL сұраныстарын пайдаланып тестілеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орналастыру алдында функционалдық тестілеуді не үшін жүргізу керек?",
+        "variants": [
+            {
+                "text": "Барлық батырмалар, формалар мен навигацияның дұрыс жұмыс істейтініне көз жеткізу үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Қосымшаның SEO-оңтайландыруын жақсарту үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқордағы әкімші құқықтарын тексеру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Беттердің жүктеу жылдамдығын арттыру үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформасында жасалған веб-қосымшаны қайда орналастыруға болады?",
+        "variants": [
+            {
+                "text": "Бұлтты хостингте немесе жеке домен арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек жергілікті желіде",
+                "is_correct": false
+            },
+            {
+                "text": "Тек App Store-да",
+                "is_correct": false
+            },
+            {
+                "text": "Тек FTP арқылы жүктеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "App Store немесе Google Play-де мобильді no-code қосымшасын орналастыру кезінде қандай параметрлер маңызды?",
+        "variants": [
+            {
+                "text": "Қосымша дүкендерінің талаптарына сәйкестігі және қажетті сертификаттардың болуы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек тегін сервистерді пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "Пайдаланушыларға жарияламас бұрын сынақ файлын жіберу",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымша жарнамалық құралдарды енгізу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code қосымшасын орналастырмас бұрын оны қалай тестілеуге болады?",
+        "variants": [
+            {
+                "text": "Алдын ала қарау режимі немесе тест ортасы арқылы",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қосымшаны нақты дүкенге жариялау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "HTML кодын талдау арқылы",
+                "is_correct": false
+            },
+            {
+                "text": "Алғашқы пайдаланушы пікірлерін алғаннан кейін ғана қателерді тексеру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қосымшаны продакшнға орналастырмас бұрын не істеу керек?",
+        "variants": [
+            {
+                "text": "Барлық функцияларды соңғы рет тестілеуден өткізу",
+                "is_correct": true
+            },
+            {
+                "text": "Дерекқордағы барлық мәліметтерді өшіру",
+                "is_correct": false
+            },
+            {
+                "text": "Дизайнның түстер схемасын өзгерту",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеуші режимін үнемі қосулы күйде қалдыру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code веб-қосымшаларын орналастырудың ең жиі қолданылатын әдісі қандай?",
+        "variants": [
+            {
+                "text": "Бұлтты хостинг немесе no-code платформасы арқылы жариялау",
+                "is_correct": true
+            },
+            {
+                "text": "Интернетсіз жергілікті серверге орнату",
+                "is_correct": false
+            },
+            {
+                "text": "Тек Google Drive-қа орналастыру",
+                "is_correct": false
+            },
+            {
+                "text": "Шығарылған файлдарды ZIP-архивке жинау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қосымшаның әртүрлі құрылғыларда дұрыс жұмыс істейтінін тексеру үшін қандай тестілеу әдісі қолданылады?",
+        "variants": [
+            {
+                "text": "Кросс-браузерлік және кросс-платформалық тестілеу",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бір құрылғыда тексеру",
+                "is_correct": false
+            },
+            {
+                "text": "Тек эмуляторларды пайдалану",
+                "is_correct": false
+            },
+            {
+                "text": "Тест нұсқасын әріптестерге жіберу, бірақ алдын ала тексермеу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Неліктен әрбір жаңарту шыққаннан кейін тестілеуді жүргізу маңызды?",
+        "variants": [
+            {
+                "text": "Жаңа функциялар ескі мүмкіндіктердің жұмысын бұзбағанына көз жеткізу үшін",
+                "is_correct": true
+            },
+            {
+                "text": "Жарнамалық кампанияларды қайтадан орнату үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымшаны жүктеу санын арттыру үшін",
+                "is_correct": false
+            },
+            {
+                "text": "Қосымшаның дүкендегі рейтингін өзгерту үшін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлеме дегеніміз не?",
+        "variants": [
+            {
+                "text": "Код жазбай, визуалды құралдармен бағдарламалық қамтамасыз етуді құру.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалау тілдерін қолдану арқылы бағдарламалық қамтамасыз етуді құру.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалық қамтамасыз етуді құрудың тек қарапайым әдісі.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалық қамтамасыз етуді тек тестілеу әдісі.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлеменің негізгі артықшылығының бірі қандай?",
+        "variants": [
+            {
+                "text": "Жылдам әзірлеу.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі функционалдылық.",
+                "is_correct": false
+            },
+            {
+                "text": "Кәсіби бағдарламашыларды жалдау.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалау бойынша терең білімді қажет ету.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлеменің негізгі шектеулерінің бірі қандай?",
+        "variants": [
+            {
+                "text": "Функционалдылықтың шектеулігі.",
+                "is_correct": true
+            },
+            {
+                "text": "Жоғары жылдамдықта әзірлеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Төмен құны.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолжетімділік.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінің тарихында веб-құрастырушылардың маңызы қандай?",
+        "variants": [
+            {
+                "text": "Веб-сайттарды кодсыз құруды көпшілікке танытты.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі қосымшаларды құруға мүмкіндік берді.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалауды міндетті етті.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеу процесін баяулатты.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінде drag-and-drop интерфейсінің қызметі қандай?",
+        "variants": [
+            {
+                "text": "Элементтерді жылжытып, интерфейс құру.",
+                "is_correct": true
+            },
+            {
+                "text": "Код жазу.",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорларды құру.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбаны тестілеу.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Low-code платформалары no-code платформаларынан несімен ерекшеленеді?",
+        "variants": [
+            {
+                "text": "Қосымша бағдарламалау дағдыларын қажет етеді.",
+                "is_correct": true
+            },
+            {
+                "text": "Кодты мүлдем қажет етпейді.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеу процесін ұзартады.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолжетімділігі төмен.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесі кімдерге арналған?",
+        "variants": [
+            {
+                "text": "Бағдарламалау білімі жоқ пайдаланушыларға.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламашыларға.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ірі компанияларға.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек ғалымдарға.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code платформаларында дайын компоненттердің рөлі қандай?",
+        "variants": [
+            {
+                "text": "Әзірлеуді жеделдету және оңайлату.",
+                "is_correct": true
+            },
+            {
+                "text": "Код жазуды міндеттеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбаларды тестілеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Дерекқорларды құру.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазіргі No-Code платформалары қандай мүмкіндіктерге ие?",
+        "variants": [
+            {
+                "text": "Күрделі қосымшаларды құруға мүмкіндік береді.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек қарапайым веб-сайттарды құруға мүмкіндік береді.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек статикалық беттерді құруға мүмкіндік береді.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек презентация құруға мүмкіндік береді.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінің дамуына қандай факторлар әсер етті?",
+        "variants": [
+            {
+                "text": "Машиналық оқыту мен AI-дің интеграциясы.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалаудың қиындауы.",
+                "is_correct": false
+            },
+            {
+                "text": "Деректердің азаюы.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданушылардың қажеттілігінің төмендеуі.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code әзірлемесінің басты мақсаты қандай?",
+        "variants": [
+            {
+                "text": "Әзірлеуді қолжетімді және жылдам ету.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек кәсіби бағдарламашылардың жұмысын жеңілдету.",
+                "is_correct": false
+            },
+            {
+                "text": "Қолданбалардың сапасын төмендету.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеу құнын арттыру.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code-тың болашағы қандай?",
+        "variants": [
+            {
+                "text": "AI және machine learning-мен интеграцияның тереңдеуі.",
+                "is_correct": true
+            },
+            {
+                "text": "No-Code платформаларының қолданыстан шығуы.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қарапайым қолданбаларды құруға арналған платформалардың дамуы.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеме процесінің толық тоқтауы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code платформаларында қауіпсіздік мәселесі қалай шешіледі?",
+        "variants": [
+            {
+                "text": "Кейбір платформалар қауіпсіздік бойынша шектеулерге ие болуы мүмкін.",
+                "is_correct": true
+            },
+            {
+                "text": "Барлық платформалар 100% қауіпсіздікпен қамтамасыз етеді.",
+                "is_correct": false
+            },
+            {
+                "text": "Қауіпсіздік мәселесі мүлдем жоқ.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек пайдаланушылардың жауапкершілігінде.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Азаматтық әзірлеуші (citizen developer) дегеніміз кім?",
+        "variants": [
+            {
+                "text": "Бағдарламалаушы емес, бірақ цифрлық өнімдерді жасай алатын адам.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек кәсіби бағдарламашы.",
+                "is_correct": false
+            },
+            {
+                "text": "Бағдарламалық қамтамасыз етуді тек тестілеуші.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек дерекқорларды басқарушы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-Code-ты таңдағанда неге назар аудару керек?",
+        "variants": [
+            {
+                "text": "Нақты тапсырмалар үшін қолайлы платформаны таңдау.",
+                "is_correct": true
+            },
+            {
+                "text": "Ең арзан платформаны таңдау.",
+                "is_correct": false
+            },
+            {
+                "text": "Ең танымал платформаны таңдау.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек қарапайым платформаны таңдау.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code веб-әзірлеме дегеніміз не?",
+        "variants": [
+            {
+                "text": "Код жазбай веб-сайттарды құру.",
+                "is_correct": true
+            },
+            {
+                "text": "Тек бағдарламалау арқылы веб-сайттарды құру.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек күрделі веб-қосымшаларды әзірлеу.",
+                "is_correct": false
+            },
+            {
+                "text": "Тек HTML арқылы сайттарды құру.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Төмендегі артықшылықтардың қайсысы no-code веб-әзірлемеге қатысты?",
+        "variants": [
+            {
+                "text": "Әзірлеу жылдамдығы.",
+                "is_correct": true
+            },
+            {
+                "text": "Бағдарламалау бойынша терең білімнің қажеттілігі.",
+                "is_correct": false
+            },
+            {
+                "text": "Әзірлеуге жоғары шығындар.",
+                "is_correct": false
+            },
+            {
+                "text": "Құралдарды пайдаланудың қиындығы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "No-code платформаларының көмегімен веб-жобалардың қандай түрін жасауға болады?",
+        "variants": [
+            {
+                "text": "Лендингтер.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі ойын қосымшалары.",
+                "is_correct": false
+            },
+            {
+                "text": "Операциялық жүйелер.",
+                "is_correct": false
+            },
+            {
+                "text": "Аппараттық қамтамасыз ету.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Төменде аталғандардың қайсысы веб-әзірлеуге арналған no-code платформасы болып табылады?",
+        "variants": [
+            {
+                "text": "Wix.",
+                "is_correct": true
+            },
+            {
+                "text": "JavaScript.",
+                "is_correct": false
+            },
+            {
+                "text": "Python.",
+                "is_correct": false
+            },
+            {
+                "text": "C++.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Wix-ті басқа no-code платформаларынан қандай ерекшелігі ажыратады?",
+        "variants": [
+            {
+                "text": "Қолданудың қарапайымдылығы.",
+                "is_correct": true
+            },
+            {
+                "text": "Күрделі интерфейс.",
+                "is_correct": false
+            },
+            {
+                "text": "Шаблон таңдауының аздығы.",
+                "is_correct": false
+            },
+            {
+                "text": "Жоғары құны.",
+                "is_correct": false
+            }
+        ]
+    }
+]

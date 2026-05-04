@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            box-sizing: border-box;
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: #ffffff;
+        }
+        .container {
+            width: 100%;
+            max-width: 585px; /* 10% smaller */
+            margin: 20px;
+            margin-bottom: 100px;
+            background: rgba(255, 255, 255, 0.908);
+            padding: 27px; /* 10% smaller */
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            backdrop-filter: blur(10px);
+        }
+        .question-header {
+            font-size: 1.26em; /* 10% smaller */
+            color: #2a2a2a;
+            margin-bottom: 18px; /* 10% smaller */
+            text-align: center;
+        }
+        .question {
+            font-size: 1.26em; /* 10% smaller */
+            font-weight: bold;
+            color: #313131;
+            text-align: left;
+            margin-bottom: 18px; /* 10% smaller */
+        }
+        .variants {
+            list-style: none;
+            padding: 0;
+            width: 100%;
+        }
+        .variants li {
+            margin-bottom: 13px; /* 10% smaller */
+        }
+        .variants button {
+            width: 100%;
+            padding: 13.5px; /* 10% smaller */
+            font-size: 1em; /* 10% smaller */
+            border: solid 1px;
+            border-radius: 25px;
+            border-color: #666666;
+            cursor: pointer;
+            background-color: rgba(242, 236, 255, 0.2);
+            color: #000000;
+            transition: all 0.3s ease;
+        }
+        .variants button:hover {
+            background-color: rgba(255, 255, 255, 0.4);
+        }
+        .variants button.correct {
+            background-color: #00E880;
+            color: #fff;
+        }
+        .variants button.incorrect {
+            background-color: #FF0044;
+            color: #fff;
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 18px; /* 10% smaller */
+            width: 100%;
+        }
+        .navigation button {
+            padding: 10.8px 31.5px; /* 10% smaller */
+            font-size: 1em; /* 10% smaller */
+            border: solid 1px;
+            border-radius: 25px;
+            border-color: #666666;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0);
+            color: rgb(40, 40, 40);
+            transition: all 0.3s ease;
+        }
+        .navigation button:hover {
+            background-color: rgb(255, 200, 0);
+            color: #fff;
+        }
+        .score {
+            text-align: center;
+            font-size: 1.62em; /* 10% smaller */
+            font-weight: bold;
+            margin-top: 27px; /* 10% smaller */
+            color:  rgb(0, 0, 0);
+        }
+        .review {
+            text-align: center;
+            margin-top: 27px; /* 10% smaller */
+        }
+        .review button {
+            padding: 10.8px 31.5px; /* 10% smaller */
+            font-size: 1em; /* 10% smaller */
+            border: solid 1px;
+            border-radius: 25px;
+            border-color: #666666;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0);
+            color: rgb(40, 40, 40);
+            transition: all 0.3s ease;
+        }
+        .review button:hover {
+            background-color: rgb(255, 200, 0);
+            color: #fff;
+        }
+    
+        .quizscore{
+            font-weight: 450;
+            font-size: 1.08em; /* 10% smaller */
+        }
+    
+        .tab-bar {
+            width: 100%;
+            max-width: 639px; /* 10% smaller */
+            background-color: rgba(255, 255, 255, 0.1);
+            margin-bottom:9px; /* 10% smaller */
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            position: fixed;
+            bottom: 0;
+            z-index: 1000;
+        }
+        .tab-bar a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 1.08em; /* 10% smaller */
+            font-weight: 900;
+            transition: color 0.3s ease;
+            padding: 13.5px ; /* 10% smaller */
+        }
+        .tab-bar a:hover {
+            color: #ffce3b;
+        }
+        /* Адаптивті дизайн */
+        @media (max-width: 600px) {
+            .container {
+                padding: 18px; /* 10% smaller */
+                width: 85%;
+            }
+            .question-header {
+                font-size: 1.08em; /* 10% smaller */
+            }
+            .question {
+                font-size: 1.26em; /* 10% smaller */
+            }
+            .variants button {
+                font-size: 0.9em; /* 10% smaller */
+                padding: 10.8px; /* 10% smaller */
+            }
+            .navigation button {
+                font-size: 0.9em; /* 10% smaller */
+                padding: 9px 18px; /* 10% smaller */
+            }
+            .score {
+                font-size: 1.44em; /* 10% smaller */
+            }
+            .tab-bar a {
+                font-size: 0.9em; /* 10% smaller */
+            }
+        }
+        .text{
+            font-size: 63px; /* 10% smaller */
+            font-weight: 1000;
+            color: #ffd965;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="text">QUIZ</div>
+    <div class="container">
+        <div id="quiz">
+            <!-- Викторина динамикалық түрде жүктеледі -->
+        </div>
+        <div id="score" class="score" style="display: none;"></div>
+        <div id="review" class="review" style="display: none;">
+            <button onclick="restartQuiz()">Қайталау</button>
+            <button onclick="reviewMistakes()">Қатемен жұмыс</button>
+        </div>
+        <div class="navigation">
+            <button id="prevButton" onclick="prevQuestion()" disabled>Артқа</button>
+            <button id="nextButton" onclick="nextQuestion()">Келесі</button>
+        </div>
+    </div>
+    <div class="tab-bar">
+        <a href="index.html">Home</a>
+        <div id="quizscore" class="quizscore"></div>
+        <a href="index.html">Close</a>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const subjectFile = urlParams.get('subject');
+
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let questions = [];
+        let mistakes = [];
+
+        fetch(subjectFile)
+            .then(response => response.json())
+            .then(data => {
+                questions = shuffleArray(data);
+                loadQuestion();
+            });
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        function shuffleVariants(variants) {
+            for (let i = variants.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [variants[i], variants[j]] = [variants[j], variants[i]];
+            }
+            return variants;
+        }
+
+        function loadQuestion() {
+            const quizDiv = document.getElementById('quiz');
+            const quizScore = document.getElementById('quizscore');
+            const scoreDiv = document.getElementById('score');
+
+            if (currentQuestionIndex >= questions.length) {
+                quizScore.style.display = 'none'
+                quizDiv.style.display = 'none';
+                document.querySelector('.navigation').style.display = 'none';
+                scoreDiv.style.display = 'block';
+                scoreDiv.innerHTML = `Сіздің соңғы ұпайыңыз: ${score} / ${questions.length}`;
+                document.getElementById('review').style.display = 'block';
+                return;
+            }
+
+            const questionData = questions[currentQuestionIndex];
+            const shuffledVariants = shuffleVariants(questionData.variants);
+
+            quizScore.innerHTML = `
+             <div class="quest"> ${currentQuestionIndex + 1} / ${questions.length}</div>
+            `
+
+            quizDiv.innerHTML = `
+                
+                <div class="question">${currentQuestionIndex + 1}. ${questionData.question} </div>
+                <ul class="variants">
+                    ${shuffledVariants.map((variant, index) => `
+                        <li>
+                            <button onclick="checkAnswer(${index})">${variant.text}</button>
+                        </li>
+                    `).join('')}
+                </ul>
+            `;
+
+            document.getElementById('prevButton').disabled = currentQuestionIndex === 0;
+            const nextButton = document.getElementById('nextButton');
+            nextButton.textContent = currentQuestionIndex === questions.length - 1 ? 'Аяқтау' : 'Келесі';
+            nextButton.onclick = currentQuestionIndex === questions.length - 1 ? finishQuiz : nextQuestion;
+        }
+
+        function checkAnswer(selectedIndex) {
+            const questionData = questions[currentQuestionIndex];
+            const buttons = document.querySelectorAll('.variants button');
+
+            questionData.variants.forEach((variant, index) => {
+                if (variant.is_correct) {
+                    buttons[index].classList.add('correct');
+                }
+                if (index === selectedIndex && !variant.is_correct) {
+                    buttons[index].classList.add('incorrect');
+                    mistakes.push(questionData);
+                }
+            });
+
+            if (questionData.variants[selectedIndex].is_correct) {
+                score++;
+            }
+
+            Array.from(buttons).forEach(button => button.disabled = true);
+        }
+
+        function nextQuestion() {
+            if (currentQuestionIndex < questions.length - 1) {
+                currentQuestionIndex++;
+                loadQuestion();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion();
+            }
+        }
+
+        function finishQuiz() {
+            const quizDiv = document.getElementById('quiz');
+            const scoreDiv = document.getElementById('score');
+
+            quizDiv.style.display = 'none';
+            document.querySelector('.navigation').style.display = 'none';
+            scoreDiv.style.display = 'block';
+          
+
+            scoreDiv.innerHTML = `Сіздің соңғы ұпайыңыз: ${score} / ${questions.length}`;
+            document.getElementById('review').style.display = 'block';
+        }
+
+        function restartQuiz() {
+            currentQuestionIndex = 0;
+            score = 0;
+            mistakes = [];
+            document.getElementById('quiz').style.display = 'block';
+            document.getElementById('score').style.display = 'none';
+            document.getElementById('review').style.display = 'none';
+            document.querySelector('.navigation').style.display = 'flex';
+            loadQuestion();
+        }
+
+        function reviewMistakes() {
+            if (mistakes.length > 0) {
+                questions = mistakes;
+                currentQuestionIndex = 0;
+                mistakes = [];
+                document.getElementById('quiz').style.display = 'block';
+                document.getElementById('score').style.display = 'none';
+                document.getElementById('review').style.display = 'none';
+                document.querySelector('.navigation').style.display = 'flex';
+                loadQuestion();
+            } else {
+                alert('Қате жауаптар жоқ!');
+            }
+        }
+    </script>
+</body>
+</html>

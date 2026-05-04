@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Экзамен сұрақтары</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #32304c;
+            font-family: 'Arial', sans-serif;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .question {
+            background-color: #4f73ff;
+            color: white;
+            padding: 20px;
+            margin: 8px 0;
+            cursor: pointer;
+            border: none;
+            width: 100%;
+            text-align: left;
+            font-size: 1.0em;
+            font-family: 'Verdana', sans-serif;
+            border-radius: 10px;
+            transition: background-color 0.3s ease;
+        }
+        .question:hover {
+            background-color:#4362df;
+        }
+        .answer {
+            display: none;
+            background-color: #e7f0f8;
+            padding: 15px;
+            margin-top: 5px;
+            border-radius: 5px;
+            font-family: 'Verdana', sans-serif;
+            font-size: 16px;
+            color: #333;
+        }
+        .answer p {
+            margin: 0;
+        }
+         .back-button {
+        display: inline-block;
+        background-color: #e5cf2b;
+        color: white;
+        text-decoration: none;
+        padding: 10px 30px;
+        border-radius: 15px;
+        font-size: 16px;
+        font-family: 'Verdana', sans-serif;
+        transition: background-color 0.3s ease;
+    }
+    .back-button:hover {
+        background-color: #bcab23;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Java Lesson</h1>
+          <div style="text-align: center; margin-top: 20px;">
+        <a href="index.html" class="back-button">Арқа қайту</a>
+    </div>
+        
+        <button class="question" onclick="toggleAnswer(1)">Инкапсуляция дегеніміз не?</button>
+        <div class="answer" id="answer1">Инкапсуляция — бұл объектінің ішкі мәліметтерін және оның жұмысын жасыру әдісі. Яғни, объектінің жағдайы тек сыртқы әлеммен оның әдістері арқылы өзгертіліп, басқа объектілер немесе бағдарламалар тек сол әдістер арқылы ғана оған қол жеткізе алады.</div>
+
+        <button class="question" onclick="toggleAnswer(2)">Атрибуттар немесе әдістер кластың қандай болуы мүмкін?</button>
+        <div class="answer" id="answer2">Класстың атрибуттары (немесе мүшелері) және әдістері жалпы (public), қорғалған (protected), жеке (private) болуы мүмкін. Бұл атрибуттардың және әдістердің қолжетімділік деңгейін анықтайды.</div>
+
+        <button class="question" onclick="toggleAnswer(3)">Java қандай бағдарламалау түріне жатады?</button>
+        <div class="answer" id="answer3">Java — объектіге бағытталған бағдарламалау тілі (OOP).</div>
+
+        <button class="question" onclick="toggleAnswer(4)">Java негізгі компоненттері қандай?</button>
+        <div class="answer" id="answer4">Java бағдарламасының негізгі компоненттері: Java Development Kit (JDK), Java Runtime Environment (JRE), және Java Virtual Machine (JVM).</div>
+
+        <button class="question" onclick="toggleAnswer(5)">Экземплярлық айнымалылар дегеніміз не?</button>
+        <div class="answer" id="answer5">Экземплярлық айнымалылар — бұл объектінің жеке қасиеттерін сақтайтын айнымалылар, әр объект үшін жеке мәндері болады.</div>
+
+        <button class="question" onclick="toggleAnswer(6)">Локалды айнымалы түрлері дегеніміз не?</button>
+        <div class="answer" id="answer6">Локалды айнымалылар — бұл әдіс ішінде анықталған айнымалылар, олар тек осы әдіс ішінде қолданылады және әдіс аяқталған кезде жойылады.</div>
+
+        <button class="question" onclick="toggleAnswer(7)">Класс ішінде қандай айнымалы түрлері болуы мүмкін?</button>
+        <div class="answer" id="answer7">Класс ішінде экземплярлық айнымалылар, тұрақтылар (static) және жергілікті айнымалылар болуы мүмкін.</div>
+
+        <button class="question" onclick="toggleAnswer(8)">`public class Cat { }` жазбасы не білдіреді?</button>
+        <div class="answer" id="answer8">Бұл Java тіліндегі класс анықтамасы. `public` — бұл классқа барлық жерден қолжетімді болуын білдіреді, ал `Cat` — класс аты. `{ }` кластың ішкі мазмұнын анықтайды.</div>
+
+        <button class="question" onclick="toggleAnswer(9)">`public class Cat { }` жазбасындағы `Cat` не білдіреді?</button>
+        <div class="answer" id="answer9">`Cat` — бұл кластың аты.</div>
+
+        <button class="question" onclick="toggleAnswer(10)">`public class Cat { }` жазбасындағы `{ }` не білдіреді?</button>
+        <div class="answer" id="answer10">`{ }` класс ішіндегі кодты қоршап тұрған жақшалар. Олардың ішінде класс мүшелері мен әдістері орналасады.</div>
+
+        <button class="question" onclick="toggleAnswer(11)">`public void eat()` жазбасы не білдіреді?</button>
+        <div class="answer" id="answer11">Бұл әдіс анықтамасы. `public` әдістің барлық жерде қолжетімді екенін білдіреді, `void` әдіс ешқандай мән қайтармайтынын білдіреді, ал `eat` — әдістің атауы.</div>
+
+        <button class="question" onclick="toggleAnswer(12)">`public void eat()` жазбасындағы `eat` не білдіреді?</button>
+        <div class="answer" id="answer12">`eat` — бұл әдістің аты, яғни бұл әдіс тамақтану әрекетін жүзеге асырады.</div>
+
+        <button class="question" onclick="toggleAnswer(13)">`public void eat()` жазбасындағы `public` не білдіреді?</button>
+        <div class="answer" id="answer13">`public` — әдіс немесе класс барлық жерден қолжетімді екенін білдіреді.</div>
+
+        <button class="question" onclick="toggleAnswer(14)">`public void eat()` жазбасындағы `void` не білдіреді?</button>
+        <div class="answer" id="answer14">`void` — бұл әдіс ешқандай мән қайтармайтынын білдіреді.</div>
+
+        <button class="question" onclick="toggleAnswer(15)">`System.out.print()` жазбасының мағынасы не?</button>
+        <div class="answer" id="answer15">Бұл команданың мақсаты — экранға немесе консольге мәтінді шығару.</div>
+
+        <button class="question" onclick="toggleAnswer(16)">`public String speak(String words){ String phrase = words + "...mauu...\n"; return phrase;}` жазбасындағы `String` не білдіреді?</button>
+        <div class="answer" id="answer16">`String` — бұл әдіс қайтарған мәннің типі. Бұл жағдайда әдіс мәтін (жол) түрінде нәтиже қайтарады.</div>
+
+        <button class="question" onclick="toggleAnswer(17)">`byte` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer17">`byte` — 8 биттік деректер түрі, -128 ден 127 дейінгі мәндерді сақтайды.</div>
+
+        <button class="question" onclick="toggleAnswer(18)">`short` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer18">`short` — 16 биттік деректер түрі, -32,768 ден 32,767 дейінгі мәндерді сақтайды.</div>
+
+        <button class="question" onclick="toggleAnswer(19)">`int` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer19">`int` — 32 биттік деректер түрі, -2,147,483,648 ден 2,147,483,647 дейінгі мәндерді сақтайды.</div>
+
+        <button class="question" onclick="toggleAnswer(20)">`long` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer20">`long` — 64 биттік деректер түрі, өте үлкен бүтін сандарды сақтай алады.</div>
+
+        <button class="question" onclick="toggleAnswer(21)">`float` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer21">`float` — 32 биттік нақты сан түрі, үтірден кейінгі дәлдікпен жұмыс істейді.</div>
+
+        <button class="question" onclick="toggleAnswer(22)">`double` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer22">`double` — 64 биттік нақты сан түрі, жоғары дәлдікпен жұмыс істейді.</div>
+
+        <button class="question" onclick="toggleAnswer(23)">`char` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer23">`char` — бір символды сақтайтын деректер түрі, Unicode стандартын қолданады.</div>
+
+        <button class="question" onclick="toggleAnswer(24)">`boolean` қандай деректер түрін білдіреді?</button>
+        <div class="answer" id="answer24">`boolean` — екі мәннің бірін қабылдайды: `true` немесе `false`.</div>
+
+        <button class="question" onclick="toggleAnswer(25)">`byte` диапазоны қандай?</button>
+        <div class="answer" id="answer25">`byte` диапазоны -128 ден 127 дейін.</div>
+
+        <button class="question" onclick="toggleAnswer(26)">`short` диапазоны қандай?</button>
+        <div class="answer" id="answer26">`short` диапазоны -32,768 ден 32,767 дейін.</div>
+
+        <button class="question" onclick="toggleAnswer(27)">`int` диапазоны қандай?</button>
+        <div class="answer" id="answer27">`int` диапазоны -2,147,483,648 ден 2,147,483,647 дейін.</div>
+
+        <button class="question" onclick="toggleAnswer(28)">`long` диапазоны қандай?</button>
+        <div class="answer" id="answer28">`long` диапазоны өте үлкен бүтін сандарды қамтиды.</div>
+
+        <button class="question" onclick="toggleAnswer(29)">`float` диапазоны қандай?</button>
+        <div class="answer" id="answer29">`float` диапазоны өте үлкен нақты сандарды қамтиды, бірақ дәлдігі аз.</div>
+
+        <button class="question" onclick="toggleAnswer(30)">`double` диапазоны қандай?</button>
+        <div class="answer" id="answer30">`double` диапазоны өте үлкен нақты сандарды қамтиды және жоғары дәлдікпен жұмыс істейді.</div>
+
+        <button class="question" onclick="toggleAnswer(31)">`char` диапазоны қандай?</button>
+        <div class="answer" id="answer31">`char` диапазоны символдардан тұрады, Unicode мәндерін сақтайды.</div>
+
+        <button class="question" onclick="toggleAnswer(32)">Метод `main()` не үшін қолданылады?</button>
+        <div class="answer" id="answer32">`main()` әдісі — Java бағдарламасының бастапқы нүктесі, бұл әдіс бағдарламаның орындалуын бастайды.</div>
+
+        <button class="question" onclick="toggleAnswer(33)">Әдістерді құру және өңдеу дегеніміз не?</button>
+        <div class="answer" id="answer33">Әдістерді құру — белгілі бір әрекеттерді орындауға арналған код блогын анықтау. Әдістерді өңдеу — осы әдістерді қолдану және параметрлерді беру.</div>
+
+        <button class="question" onclick="toggleAnswer(34)">Енгізу-шығару ағындары қалай жұмыс істейді?</button>
+        <div class="answer" id="answer34">Енгізу-шығару ағындары (I/O) бағдарламаның сыртқы құрылғылармен (мысалы, файлдар, консоль) деректер алмасуын жүзеге асырады.</div>
+
+        <button class="question" onclick="toggleAnswer(35)">Файлдармен жұмыс істеу дегеніміз не?</button>
+        <div class="answer" id="answer35">Файлдармен жұмыс істеу — деректерді оқу, жазу және өңдеу операцияларын орындау.</div>
+
+        <button class="question" onclick="toggleAnswer(36)">`continue` және `break` операторларының айырмашылығы неде?</button>
+        <div class="answer" id="answer36">`continue` операторы циклді келесі итерацияға өткізіп жібереді, ал `break` циклі немесе операторы тоқтатады.</div>
+
+        <button class="question" onclick="toggleAnswer(37)">`do` циклы қалай жұмыс істейді?</button>
+        <div class="answer" id="answer37">`do` циклы кем дегенде бір рет орындалады, одан кейін шарт тексеріледі.</div>
+
+        <button class="question" onclick="toggleAnswer(38)">Қате өңдеу дегеніміз не?</button>
+        <div class="answer" id="answer38">Бір нәрсені орындауға тырысыңыз (try):
+            Қате тудыруы мүмкін Код try блогына орналастырылады.
+            Қатені ұстау (catch):
+            Егер try блогында қате пайда болса, орындау осы қатені өңдеуге болатын тиісті catch блогына өтеді.
+            Әрқашан бір нәрсені орындаңыз (finally) (міндетті емес):
+            Finally блогындағы Код қате болғанына немесе болмағанына қарамастан әрқашан орындалады</div>
+    </div>
+
+    <script>
+        function toggleAnswer(questionNumber) {
+            var answer = document.getElementById("answer" + questionNumber);
+            if (answer.style.display === "block") {
+                answer.style.display = "none";
+            } else {
+                answer.style.display = "block";
+            }
+        }
+    </script>
+</body>
+</html>
